@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Copa do Mundo FIFA 2026 — Calendário</title>
+  <meta name="description" content="Adicione os 104 jogos da Copa do Mundo FIFA 2026 ao seu calendário do iPhone, Android ou Google Agenda. Horários de Brasília.">
+
+  <!-- Open Graph para preview no WhatsApp -->
+  <meta property="og:title" content="🏆 Copa do Mundo FIFA 2026 — Calendário Completo">
+  <meta property="og:description" content="Todos os 104 jogos no seu celular. Horários em Brasília. Adicione em 1 toque.">
+  <meta property="og:type" content="website">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Raleway:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --primary: #093664;
+      --primary-dark: #051f3d;
+      --primary-light: #1a5da3;
+      --accent: #d4a946;
+      --bg: #f7f5f0;
+      --paper: #ffffff;
+      --ink: #0a1929;
+      --muted: #6b7785;
+      --line: rgba(9, 54, 100, 0.12);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: 'Raleway', sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      min-height: 100vh;
+    }
+
+    /* Textura sutil de papel */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        radial-gradient(circle at 20% 10%, rgba(9, 54, 100, 0.04) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(212, 169, 70, 0.05) 0%, transparent 50%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 560px;
+      margin: 0 auto;
+      padding: 32px 24px 48px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Cabeçalho com marca */
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 40px;
+    }
+
+    .brand-mark {
+      width: 32px;
+      height: 32px;
+      background: var(--primary);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: 13px;
+      letter-spacing: 0.5px;
+      border-radius: 2px;
+    }
+
+    .brand-name {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1.8px;
+      color: var(--primary);
+    }
+
+    .brand-name span {
+      color: var(--muted);
+      font-weight: 400;
+    }
+
+    /* Hero */
+    .hero {
+      margin-bottom: 40px;
+    }
+
+    .trophy {
+      font-size: 56px;
+      line-height: 1;
+      margin-bottom: 20px;
+      display: block;
+    }
+
+    .eyebrow {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 2.5px;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    h1 {
+      font-family: 'Raleway', sans-serif;
+      font-weight: 900;
+      font-size: clamp(36px, 9vw, 52px);
+      line-height: 1.02;
+      letter-spacing: -0.02em;
+      color: var(--primary);
+      margin-bottom: 16px;
+    }
+
+    h1 em {
+      font-style: italic;
+      font-weight: 300;
+      color: var(--primary-light);
+    }
+
+    .lede {
+      font-size: 16px;
+      line-height: 1.55;
+      color: var(--ink);
+      max-width: 460px;
+      opacity: 0.82;
+    }
+
+    /* Stats */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+      margin: 36px 0;
+      padding: 24px 0;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .stat {
+      text-align: center;
+      padding: 0 8px;
+      position: relative;
+    }
+
+    .stat + .stat::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 8px;
+      bottom: 8px;
+      width: 1px;
+      background: var(--line);
+    }
+
+    .stat-num {
+      font-family: 'Raleway', sans-serif;
+      font-weight: 700;
+      font-size: 28px;
+      color: var(--primary);
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+
+    .stat-lbl {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 10px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--muted);
+    }
+
+    /* Botão principal */
+    .cta-wrap {
+      margin-bottom: 32px;
+    }
+
+    .cta {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      width: 100%;
+      padding: 22px 24px;
+      background: var(--primary);
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      box-shadow:
+        0 1px 2px rgba(9, 54, 100, 0.15),
+        0 4px 16px rgba(9, 54, 100, 0.18);
+      text-align: center;
+    }
+
+    .cta:hover, .cta:active {
+      background: var(--primary-dark);
+      transform: translateY(-1px);
+      box-shadow:
+        0 1px 2px rgba(9, 54, 100, 0.2),
+        0 8px 24px rgba(9, 54, 100, 0.25);
+    }
+
+    .cta-icon {
+      font-size: 18px;
+    }
+
+    .cta-sub {
+      font-family: 'Raleway', sans-serif;
+      font-size: 12px;
+      color: var(--muted);
+      text-align: center;
+      margin-top: 12px;
+      letter-spacing: 0.2px;
+    }
+
+    /* Alternativas (Google Calendar / Download direto) */
+    .alt-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 40px;
+    }
+
+    .alt-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 14px 16px;
+      background: transparent;
+      color: var(--primary);
+      border: 1px solid var(--line);
+      border-radius: 3px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .alt-btn:hover, .alt-btn:active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+
+    /* Bloco de informações */
+    .info-block {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-left: 3px solid var(--accent);
+      padding: 20px 22px;
+      margin-bottom: 32px;
+    }
+
+    .info-title {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1.8px;
+      color: var(--primary);
+      margin-bottom: 12px;
+    }
+
+    .info-list {
+      list-style: none;
+      font-size: 14px;
+      line-height: 1.7;
+    }
+
+    .info-list li {
+      padding-left: 18px;
+      position: relative;
+    }
+
+    .info-list li::before {
+      content: '›';
+      position: absolute;
+      left: 4px;
+      top: -1px;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    /* Footer Instagram */
+    .footer {
+      margin-top: auto;
+      padding-top: 32px;
+      border-top: 1px solid var(--line);
+      text-align: center;
+    }
+
+    .ig-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 22px;
+      background: var(--primary);
+      color: white;
+      text-decoration: none;
+      border-radius: 3px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.4px;
+      transition: background 0.2s;
+    }
+
+    .ig-link:hover {
+      background: var(--primary-dark);
+    }
+
+    .ig-tagline {
+      font-family: 'Raleway', sans-serif;
+      font-style: italic;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 14px;
+      line-height: 1.5;
+    }
+
+    .footer-credit {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 10px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--muted);
+      margin-top: 24px;
+      opacity: 0.7;
+    }
+
+    /* OS-specific hint */
+    .os-hint {
+      display: none;
+      font-size: 13px;
+      color: var(--muted);
+      background: rgba(212, 169, 70, 0.08);
+      border-radius: 3px;
+      padding: 10px 14px;
+      margin-top: 10px;
+      line-height: 1.45;
+    }
+
+    .os-hint.visible { display: block; }
+
+    /* Pequenos ajustes mobile */
+    @media (max-width: 380px) {
+      .container { padding: 24px 18px 36px; }
+      .stat-num { font-size: 24px; }
+      .stat-lbl { font-size: 9px; letter-spacing: 1px; }
+    }
+
+    /* Animação suave de entrada */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(8px);
+      animation: fade 0.6s ease forwards;
+    }
+    .fade-in:nth-child(1) { animation-delay: 0.05s; }
+    .fade-in:nth-child(2) { animation-delay: 0.12s; }
+    .fade-in:nth-child(3) { animation-delay: 0.20s; }
+    .fade-in:nth-child(4) { animation-delay: 0.28s; }
+    .fade-in:nth-child(5) { animation-delay: 0.36s; }
+
+    @keyframes fade {
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <!-- Marca -->
+    <div class="brand fade-in">
+      <div class="brand-mark">B</div>
+      <div class="brand-name">Bessoni Advogados <span>· bfadv.link</span></div>
+    </div>
+
+    <!-- Hero -->
+    <header class="hero fade-in">
+      <span class="trophy">🏆</span>
+      <div class="eyebrow">Calendário Oficial · 11 jun a 19 jul</div>
+      <h1>Copa do Mundo <em>FIFA 2026</em></h1>
+      <p class="lede">
+        Os 104 jogos da Copa, com horários de Brasília, alerta 1 hora antes de cada partida e bandeiras dos países — direto no calendário do seu celular.
+      </p>
+    </header>
+
+    <!-- Stats -->
+    <div class="stats fade-in">
+      <div class="stat">
+        <div class="stat-num">104</div>
+        <div class="stat-lbl">Jogos</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">48</div>
+        <div class="stat-lbl">Seleções</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">16</div>
+        <div class="stat-lbl">Cidades</div>
+      </div>
+    </div>
+
+    <!-- CTA principal (dinâmico via JS) -->
+    <div class="cta-wrap fade-in">
+      <a href="#" id="primary-cta" class="cta">
+        <span class="cta-icon">📅</span>
+        <span id="cta-label">Adicionar ao meu calendário</span>
+      </a>
+      <p class="cta-sub" id="cta-sub">Detectando seu dispositivo…</p>
+      <div class="os-hint" id="os-hint"></div>
+    </div>
+
+    <!-- Alternativas -->
+    <div class="alt-actions fade-in">
+      <a href="#" id="alt-google" class="alt-btn">
+        <span>📆</span> Adicionar ao Google Agenda (web)
+      </a>
+      <a href="copa-mundo-2026.ics" download class="alt-btn">
+        <span>⬇️</span> Baixar arquivo .ics
+      </a>
+    </div>
+
+    <!-- Info adicional -->
+    <div class="info-block fade-in">
+      <div class="info-title">O que você recebe</div>
+      <ul class="info-list">
+        <li>Todos os 104 jogos com data, hora (Brasília) e estádio</li>
+        <li>Alerta automático 1 hora antes de cada partida</li>
+        <li>Bandeira de cada seleção no título do evento</li>
+        <li>Mando de campo, grupo e número do jogo no detalhe</li>
+      </ul>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer fade-in">
+      <a href="https://www.instagram.com/bessoni.lucas/" target="_blank" rel="noopener" class="ig-link">
+        <span>📲</span> Siga @bessoni.lucas
+      </a>
+      <p class="ig-tagline">Tudo sobre Direito Eleitoral.</p>
+      <div class="footer-credit">Bessoni &amp; Fortes Sociedade de Advogados</div>
+    </footer>
+
+  </div>
+
+  <script>
+    // === DETECÇÃO DE SISTEMA E LINKS ===
+    // IMPORTANTE: Substitua HOST_AQUI pela sua URL final no GitHub Pages
+    // Exemplo: lucasbessoni.github.io/copa2026
+    const HOST = window.location.host + window.location.pathname.replace(/\/[^\/]*$/, '/');
+    const ICS_PATH = 'copa-mundo-2026.ics';
+    const HTTPS_URL = window.location.protocol + '//' + HOST + ICS_PATH;
+    const WEBCAL_URL = 'webcal://' + HOST + ICS_PATH;
+
+    // Detecta o sistema operacional
+    const ua = navigator.userAgent || navigator.vendor || window.opera;
+    const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+    const isAndroid = /android/i.test(ua);
+    const isMac = /Mac/.test(navigator.platform);
+
+    const cta = document.getElementById('primary-cta');
+    const ctaLabel = document.getElementById('cta-label');
+    const ctaSub = document.getElementById('cta-sub');
+    const osHint = document.getElementById('os-hint');
+    const altGoogle = document.getElementById('alt-google');
+
+    // Link do Google Agenda Web — assinatura por URL
+    altGoogle.href = 'https://calendar.google.com/calendar/r?cid=' + encodeURIComponent(HTTPS_URL);
+
+    if (isIOS || isMac) {
+      // iPhone/iPad/Mac: protocolo webcal:// abre direto o app Calendário
+      cta.href = WEBCAL_URL;
+      ctaLabel.textContent = 'Adicionar ao Calendário (iPhone)';
+      ctaSub.textContent = 'Toque acima — o app Calendário vai abrir automaticamente';
+      osHint.classList.add('visible');
+      osHint.innerHTML = '💡 <strong>Em um toque:</strong> seu iPhone vai pedir para "Inscrever" — confirme e pronto. Os 104 jogos aparecem no app Calendário.';
+    } else if (isAndroid) {
+      // Android: Google Agenda como destino primário (mais limpo que download)
+      cta.href = altGoogle.href;
+      cta.target = '_blank';
+      cta.rel = 'noopener';
+      ctaLabel.textContent = 'Adicionar ao Google Agenda';
+      ctaSub.textContent = 'Abre o Google Agenda no navegador — basta confirmar a inscrição';
+      osHint.classList.add('visible');
+      osHint.innerHTML = '💡 <strong>Em um toque:</strong> o Google Agenda vai abrir pedindo confirmação. Após inscrever, os jogos sincronizam automaticamente com o app no celular.';
+    } else {
+      // Desktop / outros: download direto
+      cta.href = ICS_PATH;
+      cta.setAttribute('download', '');
+      ctaLabel.textContent = 'Baixar arquivo .ics';
+      ctaSub.textContent = 'Abra o arquivo no seu app de calendário preferido';
+    }
+  </script>
+</body>
+</html>
