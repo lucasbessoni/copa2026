@@ -1,0 +1,498 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bessoni Advogados//Copa 2026 - Brasil//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Copa 2026 - Apenas Brasil 🇧🇷
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALDESC:Jogos do Brasil na Copa do Mundo FIFA 2026 — 3 confirmados n
+ a fase de grupos + 15 cenários possíveis na fase eliminatória. Atualizad
+ o após cada rodada. @bessoni.lucas
+BEGIN:VEVENT
+UID:copa2026-br-conf-006-c8cef987b380@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:🇧🇷 Brasil × 🇲🇦 Marrocos — Grupo C — Rodada 1
+LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO DO BRASIL\n\nConfronto: 
+ 🇧🇷 Brasil × 🇲🇦 Marrocos\nFase: Grupo C — Rodada 1\n\n📅 Da
+ ta: sábado\, 13 de junho de 2026\n🕐 Horário: 19:00 (Brasília — BRT\
+ , UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rutherford 
+ (NY/NJ) — EUA\nJogo nº 6 de 104 na Copa\n\n✅ JOGO CONFIRMADO\n\nFonte:
+  FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sob
+ re Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Confirmado
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇧🇷 Brasil × 🇲🇦 Marrocos — Grupo C — Rodada 1
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-conf-031-b8d7bc70dc0d@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:🇧🇷 Brasil × 🇭🇹 Haiti — Grupo C — Rodada 2
+LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO DO BRASIL\n\nConfronto: 
+ 🇧🇷 Brasil × 🇭🇹 Haiti\nFase: Grupo C — Rodada 2\n\n📅 Data:
+  sexta-feira\, 19 de junho de 2026\n🕐 Horário: 19:00 (Brasília — BRT
+ \, UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍 Local: Filadé
+ lfia — EUA\nJogo nº 31 de 104 na Copa\n\n✅ JOGO CONFIRMADO\n\nFonte: F
+ IFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre
+  Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Confirmado
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇧🇷 Brasil × 🇭🇹 Haiti — Grupo C — Rodada 2
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-conf-052-33d5ef143045@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260625T000000Z
+DTEND:20260625T020000Z
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia × 🇧🇷 Brasil — Grupo 
+ C — Rodada 3
+LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO DO BRASIL\n\nConfronto: 
+ 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia × 🇧🇷 Brasil\nFase: Grupo C —
+  Rodada 3\n\n📅 Data: quarta-feira\, 24 de junho de 2026\n🕐 Horário: 
+ 21:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n
+ 📍 Local: Miami Gardens — EUA\nJogo nº 52 de 104 na Copa\n\n✅ JOGO C
+ ONFIRMADO\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no 
+ Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Confirmado
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia × 🇧🇷 Brasil — Gr
+ upo C — Rodada 3
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-076-9ef98f08b203@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil (1º Grupo C) × 2º Grupo F — Rodada
+  de 32
+LOCATION:NRG Stadium\, Houston\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Cenário 1: Brasil termina como 1º colocado do
+  Grupo C\n\nFase: Rodada de 32 — Jogo 76\n\n📅 Data prevista: segunda-f
+ eira\, 29 de junho de 2026\n🕐 Horário previsto: 14:00 (Brasília — BR
+ T\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA\n\
+ nℹ️ Após a fase de grupos (24/06)\, o calendário será atualizado\npa
+ ra manter apenas o caminho real do Brasil. Quem assinou pelo\nlink recebe a
+  atualização automaticamente no celular.\n\nFonte: FIFA — fifa.com\n\n
+ ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil (1º Grupo C) × 2º Grupo F
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-074-ecc6a1155668@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:[POSSÍVEL] 1º Grupo E × 🇧🇷 Brasil (3º Grupo C) — Rodada
+  de 32
+LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Cenário 3-A: Brasil termina como 3º do Grupo 
+ C (combinação A das melhores 3ª posições)\n\nFase: Rodada de 32 — Jo
+ go 74\n\n📅 Data prevista: segunda-feira\, 29 de junho de 2026\n🕐 Hor
+ ário previsto: 17:30 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Gill
+ ette Stadium\n📍 Local: Foxborough (Boston) — EUA\n\nℹ️ Após a fas
+ e de grupos (24/06)\, o calendário será atualizado\npara manter apenas o 
+ caminho real do Brasil. Quem assinou pelo\nlink recebe a atualização auto
+ maticamente no celular.\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bes
+ soni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 1º Grupo E × 🇧🇷 Brasil (3º Grupo C)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-075-ddeb7cb1e384@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260630T010000Z
+DTEND:20260630T030000Z
+SUMMARY:[POSSÍVEL] 1º Grupo F × 🇧🇷 Brasil (2º Grupo C) — Rodada
+  de 32
+LOCATION:Estadio BBVA\, Monterrey\, México
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Cenário 2: Brasil termina como 2º colocado do
+  Grupo C\n\nFase: Rodada de 32 — Jogo 75\n\n📅 Data prevista: segunda-f
+ eira\, 29 de junho de 2026\n🕐 Horário previsto: 22:00 (Brasília — BR
+ T\, UTC-3)\n\n🏟️ Estádio: Estadio BBVA\n📍 Local: Monterrey — Mé
+ xico\n\nℹ️ Após a fase de grupos (24/06)\, o calendário será atualiz
+ ado\npara manter apenas o caminho real do Brasil. Quem assinou pelo\nlink r
+ ecebe a atualização automaticamente no celular.\n\nFonte: FIFA — fifa.c
+ om\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleit
+ oral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 1º Grupo F × 🇧🇷 Brasil (2º Grupo C)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-077-c8bccf799155@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:[POSSÍVEL] 1º Grupo I × 🇧🇷 Brasil (3º Grupo C) — Rodada
+  de 32
+LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Cenário 3-B: Brasil termina como 3º do Grupo 
+ C (combinação B das melhores 3ª posições)\n\nFase: Rodada de 32 — Jo
+ go 77\n\n📅 Data prevista: terça-feira\, 30 de junho de 2026\n🕐 Horá
+ rio previsto: 18:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: MetLif
+ e Stadium\n📍 Local: East Rutherford (NY/NJ) — EUA\n\nℹ️ Após a fa
+ se de grupos (24/06)\, o calendário será atualizado\npara manter apenas o
+  caminho real do Brasil. Quem assinou pelo\nlink recebe a atualização aut
+ omaticamente no celular.\n\nFonte: FIFA — fifa.com\n\n———\nSiga @be
+ ssoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 1º Grupo I × 🇧🇷 Brasil (3º Grupo C)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-079-e5b0594f242e@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:[POSSÍVEL] 1º Grupo A × 🇧🇷 Brasil (3º Grupo C) — Rodada
+  de 32
+LOCATION:Estádio Azteca\, Cidade do México\, México
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Cenário 3-C: Brasil termina como 3º do Grupo 
+ C (combinação C das melhores 3ª posições)\n\nFase: Rodada de 32 — Jo
+ go 79\n\n📅 Data prevista: terça-feira\, 30 de junho de 2026\n🕐 Horá
+ rio previsto: 22:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Estád
+ io Azteca\n📍 Local: Cidade do México — México\n\nℹ️ Após a fase
+  de grupos (24/06)\, o calendário será atualizado\npara manter apenas o c
+ aminho real do Brasil. Quem assinou pelo\nlink recebe a atualização autom
+ aticamente no celular.\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
+ oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 1º Grupo A × 🇧🇷 Brasil (3º Grupo C)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-090-85de3ad5bd74@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil × Vencedor Jogo 73 — Oitavas de Fina
+ l
+LOCATION:NRG Stadium\, Houston\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer o Jogo 75 (cenário
+  2º do Grupo C)\n\nFase: Oitavas de Final — Jogo 90\n\n📅 Data previst
+ a: sábado\, 04 de julho de 2026\n🕐 Horário previsto: 14:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — 
+ EUA\n\nℹ️ Após a fase de grupos (24/06)\, o calendário será atualiza
+ do\npara manter apenas o caminho real do Brasil. Quem assinou pelo\nlink re
+ cebe a atualização automaticamente no celular.\n\nFonte: FIFA — fifa.co
+ m\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleito
+ ral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil × Vencedor Jogo 73
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-089-dd4b2cb2e53b@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil × Vencedor (74 ou 77) — Oitavas de F
+ inal
+LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer o Jogo 74 OU o Jogo
+  77 (cenários 3-A ou 3-B)\n\nFase: Oitavas de Final — Jogo 89\n\n📅 Da
+ ta prevista: sábado\, 04 de julho de 2026\n🕐 Horário previsto: 18:00 (
+ Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n
+ 📍 Local: Filadélfia — EUA\n\nℹ️ Após a fase de grupos (24/06)\, 
+ o calendário será atualizado\npara manter apenas o caminho real do Brasil
+ . Quem assinou pelo\nlink recebe a atualização automaticamente no celular
+ .\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagra
+ m. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil × Vencedor (74 ou 77)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-092-dd7dee2c2efa@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260705T170000Z
+DTEND:20260705T190000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil × Vencedor Jogo 78 — Oitavas de Fina
+ l
+LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer o Jogo 76 (cenário
+  1º do Grupo C)\n\nFase: Oitavas de Final — Jogo 92\n\n📅 Data previst
+ a: domingo\, 05 de julho de 2026\n🕐 Horário previsto: 14:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rut
+ herford (NY/NJ) — EUA\n\nℹ️ Após a fase de grupos (24/06)\, o calend
+ ário será atualizado\npara manter apenas o caminho real do Brasil. Quem a
+ ssinou pelo\nlink recebe a atualização automaticamente no celular.\n\nFon
+ te: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo 
+ sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil × Vencedor Jogo 78
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-091-829229d00cd2@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260705T210000Z
+DTEND:20260705T230000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil × Vencedor Jogo 80 — Oitavas de Fina
+ l
+LOCATION:Estádio Azteca\, Cidade do México\, México
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer o Jogo 79 (cenário
+  3-C)\n\nFase: Oitavas de Final — Jogo 91\n\n📅 Data prevista: domingo\
+ , 05 de julho de 2026\n🕐 Horário previsto: 18:00 (Brasília — BRT\, U
+ TC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Cidade do México 
+ — México\n\nℹ️ Após a fase de grupos (24/06)\, o calendário será 
+ atualizado\npara manter apenas o caminho real do Brasil. Quem assinou pelo\
+ nlink recebe a atualização automaticamente no celular.\n\nFonte: FIFA —
+  fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direit
+ o Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil × Vencedor Jogo 80
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-097-cd8ffbd8cd1b@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil — Quartas de Final — Quartas de Fin
+ al
+LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer o Jogo 89 OU o Jogo
+  90 (lado superior da chave)\n\nFase: Quartas de Final — Jogo 97\n\n📅 
+ Data prevista: quinta-feira\, 09 de julho de 2026\n🕐 Horário previsto: 
+ 17:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Gillette Stadium\n
+ 📍 Local: Foxborough (Boston) — EUA\n\nℹ️ Após a fase de grupos (2
+ 4/06)\, o calendário será atualizado\npara manter apenas o caminho real d
+ o Brasil. Quem assinou pelo\nlink recebe a atualização automaticamente no
+  celular.\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no 
+ Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil — Quartas de Final
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-099-491ccc494f30@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260711T170000Z
+DTEND:20260711T190000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil — Quartas de Final — Quartas de Fin
+ al
+LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer o Jogo 91 OU o Jogo
+  92 (lado inferior da chave)\n\nFase: Quartas de Final — Jogo 99\n\n📅 
+ Data prevista: sábado\, 11 de julho de 2026\n🕐 Horário previsto: 14:00
+  (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 L
+ ocal: Miami Gardens — EUA\n\nℹ️ Após a fase de grupos (24/06)\, o ca
+ lendário será atualizado\npara manter apenas o caminho real do Brasil. Qu
+ em assinou pelo\nlink recebe a atualização automaticamente no celular.\n\
+ nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. T
+ udo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil — Quartas de Final
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-101-9e3a7bb6743c@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil — Semifinal — Semifinal
+LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer o Jogo 97 (Quartas 
+ em Boston)\n\nFase: Semifinal — Jogo 101\n\n📅 Data prevista: terça-fe
+ ira\, 14 de julho de 2026\n🕐 Horário previsto: 16:00 (Brasília — BRT
+ \, UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas)
+  — EUA\n\nℹ️ Após a fase de grupos (24/06)\, o calendário será atu
+ alizado\npara manter apenas o caminho real do Brasil. Quem assinou pelo\nli
+ nk recebe a atualização automaticamente no celular.\n\nFonte: FIFA — fi
+ fa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito E
+ leitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil — Semifinal
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-102-fd4453b9cdb5@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil — Semifinal — Semifinal
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer o Jogo 99 (Quartas 
+ em Miami)\n\nFase: Semifinal — Jogo 102\n\n📅 Data prevista: quarta-fei
+ ra\, 15 de julho de 2026\n🕐 Horário previsto: 16:00 (Brasília — BRT\
+ , UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta 
+ — EUA\n\nℹ️ Após a fase de grupos (24/06)\, o calendário será atua
+ lizado\npara manter apenas o caminho real do Brasil. Quem assinou pelo\nlin
+ k recebe a atualização automaticamente no celular.\n\nFonte: FIFA — fif
+ a.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito El
+ eitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil — Semifinal
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-103-642f2fd23558@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260718T180000Z
+DTEND:20260718T200000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil — Disputa do 3º Lugar — Disputa do
+  3º Lugar
+LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil perder uma das duas semifi
+ nais (Jogo 101 ou 102)\n\nFase: Disputa do 3º Lugar — Jogo 103\n\n📅 D
+ ata prevista: sábado\, 18 de julho de 2026\n🕐 Horário previsto: 15:00 
+ (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Lo
+ cal: Miami Gardens — EUA\n\nℹ️ Após a fase de grupos (24/06)\, o cal
+ endário será atualizado\npara manter apenas o caminho real do Brasil. Que
+ m assinou pelo\nlink recebe a atualização automaticamente no celular.\n\n
+ Fonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tu
+ do sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil — Disputa do 3º Lugar
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-br-cen-104-83ae21ec4255@bessoni.adv.br
+DTSTAMP:20260519T163436Z
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:[POSSÍVEL] 🇧🇷 Brasil — 🏆 GRANDE FINAL — FINAL
+LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
+ ️ ATENÇÃO: este é um jogo CONDICIONAL.\nSó acontece se o cenário aba
+ ixo se confirmar:\n\n➡️ Acontece se o Brasil vencer uma das duas semifi
+ nais (Jogo 101 ou 102)\n\nFase: FINAL — Jogo 104\n\n📅 Data prevista: d
+ omingo\, 19 de julho de 2026\n🕐 Horário previsto: 16:00 (Brasília — 
+ BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rutherf
+ ord (NY/NJ) — EUA\n\nℹ️ Após a fase de grupos (24/06)\, o calendári
+ o será atualizado\npara manter apenas o caminho real do Brasil. Quem assin
+ ou pelo\nlink recebe a atualização automaticamente no celular.\n\nFonte: 
+ FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobr
+ e Direito Eleitoral.
+CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[Possível] 🇧🇷 Brasil — 🏆 GRANDE FINAL
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
