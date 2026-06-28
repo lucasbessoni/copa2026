@@ -1,26 +1,26 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Bessoni Advogados//Copa Mundo FIFA 2026 v2//PT-BR
+PRODID:-//Bessoni Advogados//Copa Mundo FIFA 2026 v3//PT-BR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Copa do Mundo FIFA 2026
 X-WR-TIMEZONE:America/Sao_Paulo
-X-WR-CALDESC:Calendário dos 104 jogos da Copa do Mundo FIFA 2026 - validad
- o contra tabela oficial FIFA. Atualizado em 01/jun/2026 com correções de 
- horários. @bessoni.lucas
+X-WR-CALDESC:Calendário dos 104 jogos da Copa do Mundo FIFA 2026 com confr
+ ontos e horários OFICIAIS pós sorteio (28/06/2026). @bessoni.lucas
 BEGIN:VEVENT
-UID:copa2026-001-dc91f9640faf@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-001-63c07320fe73@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 SUMMARY:🇲🇽 México × 🇿🇦 África do Sul — Grupo A
 LOCATION:Estádio Azteca\, Cidade do México\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇲🇽 México × 
  🇿🇦 África do Sul\nFase: Grupo A\nMando de campo: 🇲🇽 México\n\
- n📅 Data: 11 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, 
- UTC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Cidade do México 
- — México\nJogo nº 1 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSi
- ga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ n📅 Data: quinta-feira\, 11 de junho de 2026\n🕐 Horário: 16:00 (Bras
+ ília — BRT\, UTC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Ci
+ dade do México — México\nJogo nº 1 de 104\n\nFonte: FIFA — fifa.com\
+ n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitora
+ l.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -31,18 +31,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-002-b2ec196db582@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-002-2c42069e6496@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 SUMMARY:🇰🇷 Coreia do Sul × 🇨🇿 Tchéquia — Grupo A
 LOCATION:Estadio Akron\, Guadalajara\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇰🇷 Coreia do Su
  l × 🇨🇿 Tchéquia\nFase: Grupo A\nMando de campo: 🇰🇷 Coreia do 
- Sul\n\n📅 Data: 11 de junho de 2026\n🕐 Horário: 23:00 (Brasília — 
- BRT\, UTC-3)\n\n🏟️ Estádio: Estadio Akron\n📍 Local: Guadalajara 
- — México\nJogo nº 2 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSi
- ga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ Sul\n\n📅 Data: quinta-feira\, 11 de junho de 2026\n🕐 Horário: 23:00 
+ (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Estadio Akron\n📍 Local:
+  Guadalajara — México\nJogo nº 2 de 104\n\nFonte: FIFA — fifa.com\n\n
+ ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -53,18 +53,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-003-4a2a1fd56d81@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-003-7e5dd1f803d3@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 SUMMARY:🇨🇦 Canadá × 🇧🇦 Bósnia e Herzegovina — Grupo B
 LOCATION:BMO Field\, Toronto\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇦 Canadá × 
  🇧🇦 Bósnia e Herzegovina\nFase: Grupo B\nMando de campo: 🇨🇦 Can
- adá\n\n📅 Data: 12 de junho de 2026\n🕐 Horário: 16:00 (Brasília —
-  BRT\, UTC-3)\n\n🏟️ Estádio: BMO Field\n📍 Local: Toronto — Canad
- á\nJogo nº 3 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @besso
- ni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ adá\n\n📅 Data: sexta-feira\, 12 de junho de 2026\n🕐 Horário: 16:00 
+ (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: BMO Field\n📍 Local: Tor
+ onto — Canadá\nJogo nº 3 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -75,18 +75,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-004-09162b511468@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-004-4d8a312765b5@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 SUMMARY:🇺🇸 EUA × 🇵🇾 Paraguai — Grupo D
 LOCATION:SoFi Stadium\, Inglewood (Los Angeles)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇺🇸 EUA × 🇵
- 🇾 Paraguai\nFase: Grupo D\nMando de campo: 🇺🇸 EUA\n\n📅 Data: 12
-  de junho de 2026\n🕐 Horário: 22:00 (Brasília — BRT\, UTC-3)\n\n🏟
- ️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los Angeles) — EUA\nJo
- go nº 4 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.luc
- as no Instagram. Tudo sobre Direito Eleitoral.
+ 🇾 Paraguai\nFase: Grupo D\nMando de campo: 🇺🇸 EUA\n\n📅 Data: se
+ xta-feira\, 12 de junho de 2026\n🕐 Horário: 22:00 (Brasília — BRT\, 
+ UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los Angele
+ s) — EUA\nJogo nº 4 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSig
+ a @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -97,18 +97,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-008-356cc969c482@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-008-05a4471dfd06@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260613T040000Z
 DTEND:20260613T060000Z
 SUMMARY:🇦🇺 Austrália × 🇹🇷 Turquia — Grupo D
 LOCATION:BC Place\, Vancouver\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇦🇺 Austrália 
  × 🇹🇷 Turquia\nFase: Grupo D\nMando de campo: 🇦🇺 Austrália\n\n
- 📅 Data: 13 de junho de 2026\n🕐 Horário: 01:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — Canadá\nJog
- o nº 8 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.luca
- s no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: sábado\, 13 de junho de 2026\n🕐 Horário: 01:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — C
+ anadá\nJogo nº 8 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @b
+ essoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -119,18 +119,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-005-71a386389ed0@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-005-16240eb46e00@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:🇶🇦 Catar × 🇨🇭 Suíça — Grupo B
 LOCATION:Levi's Stadium\, Santa Clara (S.F. Bay)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇶🇦 Catar × 
  🇨🇭 Suíça\nFase: Grupo B\nMando de campo: 🇶🇦 Catar\n\n📅 Dat
- a: 13 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\n\
- n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa Clara (S.F. Bay) — E
- UA\nJogo nº 5 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @besso
- ni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ a: sábado\, 13 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\,
+  UTC-3)\n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa Clara (S.F. 
+ Bay) — EUA\nJogo nº 5 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
+ iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -141,18 +141,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-006-17351a3acc2f@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-006-7aa1c32b9a25@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:🇧🇷 Brasil × 🇲🇦 Marrocos — Grupo C
 LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇧🇷 Brasil × 
  🇲🇦 Marrocos\nFase: Grupo C\nMando de campo: 🇧🇷 Brasil\n\n📅 D
- ata: 13 de junho de 2026\n🕐 Horário: 19:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rutherford (NY/NJ) 
- — EUA\nJogo nº 6 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @
- bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ata: sábado\, 13 de junho de 2026\n🕐 Horário: 19:00 (Brasília — BRT
+ \, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rutherford
+  (NY/NJ) — EUA\nJogo nº 6 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -163,18 +163,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-007-d442b5d4984d@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-007-1d15735bac0f@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 SUMMARY:🇭🇹 Haiti × 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia — Grupo C
 LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇭🇹 Haiti × 
  🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia\nFase: Grupo C\nMando de campo: 🇭
- 🇹 Haiti\n\n📅 Data: 13 de junho de 2026\n🕐 Horário: 22:00 (Brasíl
- ia — BRT\, UTC-3)\n\n🏟️ Estádio: Gillette Stadium\n📍 Local: Foxb
- orough (Boston) — EUA\nJogo nº 7 de 104\n\nFonte: FIFA — fifa.com\n\n
- ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 🇹 Haiti\n\n📅 Data: sábado\, 13 de junho de 2026\n🕐 Horário: 22:0
+ 0 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Gillette Stadium\n📍 L
+ ocal: Foxborough (Boston) — EUA\nJogo nº 7 de 104\n\nFonte: FIFA — fif
+ a.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito El
+ eitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -186,18 +187,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-009-c6c29fbab044@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-009-714a3983e4b2@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 SUMMARY:🇩🇪 Alemanha × 🇨🇼 Curaçao — Grupo E
 LOCATION:NRG Stadium\, Houston\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇩🇪 Alemanha × 
  🇨🇼 Curaçao\nFase: Grupo E\nMando de campo: 🇩🇪 Alemanha\n\n📅
-  Data: 14 de junho de 2026\n🕐 Horário: 14:00 (Brasília — BRT\, UTC-3
- )\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA\nJogo nº 9
-  de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no In
- stagram. Tudo sobre Direito Eleitoral.
+  Data: domingo\, 14 de junho de 2026\n🕐 Horário: 14:00 (Brasília — B
+ RT\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA\n
+ Jogo nº 9 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.l
+ ucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -208,18 +209,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-010-a368a8343365@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-010-d9af824097b1@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 SUMMARY:🇳🇱 Holanda × 🇯🇵 Japão — Grupo F
 LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇳🇱 Holanda × 
  🇯🇵 Japão\nFase: Grupo F\nMando de campo: 🇳🇱 Holanda\n\n📅 Da
- ta: 14 de junho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) — EUA\nJ
- ogo nº 10 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.l
- ucas no Instagram. Tudo sobre Direito Eleitoral.
+ ta: domingo\, 14 de junho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\
+ , UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) 
+ — EUA\nJogo nº 10 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
+ @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -230,18 +231,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-011-920cbbdab840@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-011-bd057bac3e74@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 SUMMARY:🇨🇮 Costa do Marfim × 🇪🇨 Equador — Grupo E
 LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇮 Costa do Mar
  fim × 🇪🇨 Equador\nFase: Grupo E\nMando de campo: 🇨🇮 Costa do M
- arfim\n\n📅 Data: 14 de junho de 2026\n🕐 Horário: 20:00 (Brasília 
- — BRT\, UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍 Local: 
- Filadélfia — EUA\nJogo nº 11 de 104\n\nFonte: FIFA — fifa.com\n\n—
- ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ arfim\n\n📅 Data: domingo\, 14 de junho de 2026\n🕐 Horário: 20:00 (Br
+ asília — BRT\, UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍
+  Local: Filadélfia — EUA\nJogo nº 11 de 104\n\nFonte: FIFA — fifa.com
+ \n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitor
+ al.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -252,18 +254,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-012-69a0f9df49e3@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-012-7ea3a7366927@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 SUMMARY:🇸🇪 Suécia × 🇹🇳 Tunísia — Grupo F
 LOCATION:Estadio BBVA\, Monterrey\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇸🇪 Suécia × 
  🇹🇳 Tunísia\nFase: Grupo F\nMando de campo: 🇸🇪 Suécia\n\n📅 
- Data: 14 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Estadio BBVA\n📍 Local: Monterrey — México\nJogo
-  nº 12 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.luca
- s no Instagram. Tudo sobre Direito Eleitoral.
+ Data: domingo\, 14 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BR
+ T\, UTC-3)\n\n🏟️ Estádio: Estadio BBVA\n📍 Local: Monterrey — Mé
+ xico\nJogo nº 12 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @be
+ ssoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -274,18 +276,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-013-76723de3d25e@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-013-3e987c0a5f41@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:🇪🇸 Espanha × 🇨🇻 Cabo Verde — Grupo H
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇪🇸 Espanha × 
  🇨🇻 Cabo Verde\nFase: Grupo H\nMando de campo: 🇪🇸 Espanha\n\n
- 📅 Data: 15 de junho de 2026\n🕐 Horário: 13:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta — E
- UA\nJogo nº 13 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
- oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: segunda-feira\, 15 de junho de 2026\n🕐 Horário: 13:00 (Bras
+ ília — BRT\, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Loc
+ al: Atlanta — EUA\nJogo nº 13 de 104\n\nFonte: FIFA — fifa.com\n\n—
+ ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -296,18 +298,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-014-8d3fa713aae7@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-014-e699de59d975@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:🇧🇪 Bélgica × 🇪🇬 Egito — Grupo G
 LOCATION:Lumen Field\, Seattle\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇧🇪 Bélgica × 
  🇪🇬 Egito\nFase: Grupo G\nMando de campo: 🇧🇪 Bélgica\n\n📅 Da
- ta: 15 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: Lumen Field\n📍 Local: Seattle — EUA\nJogo nº 14 d
- e 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Inst
- agram. Tudo sobre Direito Eleitoral.
+ ta: segunda-feira\, 15 de junho de 2026\n🕐 Horário: 16:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: Lumen Field\n📍 Local: Seattle — 
+ EUA\nJogo nº 14 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bes
+ soni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -318,18 +320,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-015-8353ed5c2b92@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-015-4543727fdf40@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 SUMMARY:🇸🇦 Arábia Saudita × 🇺🇾 Uruguai — Grupo H
 LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇸🇦 Arábia Saud
  ita × 🇺🇾 Uruguai\nFase: Grupo H\nMando de campo: 🇸🇦 Arábia Sa
- udita\n\n📅 Data: 15 de junho de 2026\n🕐 Horário: 19:00 (Brasília 
- — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Local: Miami 
- Gardens — EUA\nJogo nº 15 de 104\n\nFonte: FIFA — fifa.com\n\n——
- —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ udita\n\n📅 Data: segunda-feira\, 15 de junho de 2026\n🕐 Horário: 19:
+ 00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍
+  Local: Miami Gardens — EUA\nJogo nº 15 de 104\n\nFonte: FIFA — fifa.c
+ om\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleit
+ oral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -340,18 +343,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-016-424b86750061@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-016-8dd46013f1d6@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 SUMMARY:🇮🇷 Irã × 🇳🇿 Nova Zelândia — Grupo G
 LOCATION:SoFi Stadium\, Inglewood (Los Angeles)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇮🇷 Irã × 🇳
  🇿 Nova Zelândia\nFase: Grupo G\nMando de campo: 🇮🇷 Irã\n\n📅 D
- ata: 15 de junho de 2026\n🕐 Horário: 22:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los Angeles) — 
- EUA\nJogo nº 16 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bes
- soni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ata: segunda-feira\, 15 de junho de 2026\n🕐 Horário: 22:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (
+ Los Angeles) — EUA\nJogo nº 16 de 104\n\nFonte: FIFA — fifa.com\n\n—
+ ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -362,18 +365,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-019-26111192e9f8@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-019-c15bb0582ac3@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260616T170000Z
 DTEND:20260616T190000Z
 SUMMARY:🇦🇷 Argentina × 🇩🇿 Argélia — Grupo J
 LOCATION:Arrowhead Stadium\, Kansas City\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇦🇷 Argentina ×
   🇩🇿 Argélia\nFase: Grupo J\nMando de campo: 🇦🇷 Argentina\n\n
- 📅 Data: 16 de junho de 2026\n🕐 Horário: 14:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kansas City — E
- UA\nJogo nº 19 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
- oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: terça-feira\, 16 de junho de 2026\n🕐 Horário: 14:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Ka
+ nsas City — EUA\nJogo nº 19 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -384,18 +387,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-017-b06445fc8d5c@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-017-d28ad2f655f9@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 SUMMARY:🇫🇷 França × 🇸🇳 Senegal — Grupo I
 LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇫🇷 França × 
  🇸🇳 Senegal\nFase: Grupo I\nMando de campo: 🇫🇷 França\n\n📅 D
- ata: 16 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rutherford (NY/NJ) 
- — EUA\nJogo nº 17 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
- @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ata: terça-feira\, 16 de junho de 2026\n🕐 Horário: 16:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rut
+ herford (NY/NJ) — EUA\nJogo nº 17 de 104\n\nFonte: FIFA — fifa.com\n\n
+ ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -406,18 +409,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-018-40fc778ebfd5@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-018-140566a1f7d9@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 SUMMARY:🇮🇶 Iraque × 🇳🇴 Noruega — Grupo I
 LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇮🇶 Iraque × 
  🇳🇴 Noruega\nFase: Grupo I\nMando de campo: 🇮🇶 Iraque\n\n📅 Da
- ta: 16 de junho de 2026\n🕐 Horário: 19:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: Gillette Stadium\n📍 Local: Foxborough (Boston) — E
- UA\nJogo nº 18 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
- oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ta: terça-feira\, 16 de junho de 2026\n🕐 Horário: 19:00 (Brasília —
+  BRT\, UTC-3)\n\n🏟️ Estádio: Gillette Stadium\n📍 Local: Foxborough
+  (Boston) — EUA\nJogo nº 18 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -428,18 +431,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-020-dd6aa9ab37d0@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-020-e0a0caaaa6cd@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 SUMMARY:🇦🇹 Áustria × 🇯🇴 Jordânia — Grupo J
 LOCATION:Levi's Stadium\, Santa Clara (S.F. Bay)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇦🇹 Áustria × 
  🇯🇴 Jordânia\nFase: Grupo J\nMando de campo: 🇦🇹 Áustria\n\n
- 📅 Data: 17 de junho de 2026\n🕐 Horário: 01:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa Clara (S.F. Ba
- y) — EUA\nJogo nº 20 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSi
- ga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: quarta-feira\, 17 de junho de 2026\n🕐 Horário: 01:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa
+  Clara (S.F. Bay) — EUA\nJogo nº 20 de 104\n\nFonte: FIFA — fifa.com\n
+ \n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral
+ .
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -450,18 +454,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-021-0da9d376ec79@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-021-8c78173a33db@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 SUMMARY:🇵🇹 Portugal × 🇨🇩 RD Congo — Grupo K
 LOCATION:NRG Stadium\, Houston\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇵🇹 Portugal × 
  🇨🇩 RD Congo\nFase: Grupo K\nMando de campo: 🇵🇹 Portugal\n\n📅
-  Data: 17 de junho de 2026\n🕐 Horário: 14:00 (Brasília — BRT\, UTC-3
- )\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA\nJogo nº 2
- 1 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no I
- nstagram. Tudo sobre Direito Eleitoral.
+  Data: quarta-feira\, 17 de junho de 2026\n🕐 Horário: 14:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — 
+ EUA\nJogo nº 21 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bes
+ soni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -472,8 +476,8 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-022-9d535174d563@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-022-d4734e2f701e@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra × 🇭🇷 Croácia — Gr
@@ -481,11 +485,11 @@ SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra × 🇭🇷 Croácia — Gr
 LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🏴󠁧󠁢󠁥󠁮
  󠁧󠁿 Inglaterra × 🇭🇷 Croácia\nFase: Grupo L\nMando de campo: 
- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n\n📅 Data: 17 de junho de 2026\n
- 🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: AT&T 
- Stadium\n📍 Local: Arlington (Dallas) — EUA\nJogo nº 22 de 104\n\nFont
- e: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo s
- obre Direito Eleitoral.
+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n\n📅 Data: quarta-feira\, 17 de 
+ junho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)\n\n🏟️ 
+ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) — EUA\nJogo nº 22
+  de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no In
+ stagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -497,18 +501,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-023-e01e2f47e182@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-023-ce49f918ade6@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 SUMMARY:🇬🇭 Gana × 🇵🇦 Panamá — Grupo L
 LOCATION:BMO Field\, Toronto\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇬🇭 Gana × 🇵
- 🇦 Panamá\nFase: Grupo L\nMando de campo: 🇬🇭 Gana\n\n📅 Data: 17
-  de junho de 2026\n🕐 Horário: 20:00 (Brasília — BRT\, UTC-3)\n\n🏟
- ️ Estádio: BMO Field\n📍 Local: Toronto — Canadá\nJogo nº 23 de 10
- 4\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagra
- m. Tudo sobre Direito Eleitoral.
+ 🇦 Panamá\nFase: Grupo L\nMando de campo: 🇬🇭 Gana\n\n📅 Data: qu
+ arta-feira\, 17 de junho de 2026\n🕐 Horário: 20:00 (Brasília — BRT\,
+  UTC-3)\n\n🏟️ Estádio: BMO Field\n📍 Local: Toronto — Canadá\nJo
+ go nº 23 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lu
+ cas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -519,18 +523,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-024-cee03429e806@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-024-a418580ffb5e@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 SUMMARY:🇺🇿 Uzbequistão × 🇨🇴 Colômbia — Grupo K
 LOCATION:Estádio Azteca\, Cidade do México\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇺🇿 Uzbequistão
   × 🇨🇴 Colômbia\nFase: Grupo K\nMando de campo: 🇺🇿 Uzbequistã
- o\n\n📅 Data: 17 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BR
- T\, UTC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Cidade do Méx
- ico — México\nJogo nº 24 de 104\n\nFonte: FIFA — fifa.com\n\n——
- —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ o\n\n📅 Data: quarta-feira\, 17 de junho de 2026\n🕐 Horário: 23:00 (B
+ rasília — BRT\, UTC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local:
+  Cidade do México — México\nJogo nº 24 de 104\n\nFonte: FIFA — fifa.
+ com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Elei
+ toral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -541,18 +546,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-025-ae61793093a8@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-025-c264c1702b99@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 SUMMARY:🇨🇿 Tchéquia × 🇿🇦 África do Sul — Grupo A
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇿 Tchéquia ×
   🇿🇦 África do Sul\nFase: Grupo A\nMando de campo: 🇨🇿 Tchéquia
- \n\n📅 Data: 18 de junho de 2026\n🕐 Horário: 13:00 (Brasília — BRT
- \, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta 
- — EUA\nJogo nº 25 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
- @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ \n\n📅 Data: quinta-feira\, 18 de junho de 2026\n🕐 Horário: 13:00 (Br
+ asília — BRT\, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 L
+ ocal: Atlanta — EUA\nJogo nº 25 de 104\n\nFonte: FIFA — fifa.com\n\n
+ ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -563,18 +568,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-026-9be80fbd1749@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-026-48e548c0b1b9@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 SUMMARY:🇨🇭 Suíça × 🇧🇦 Bósnia e Herzegovina — Grupo B
 LOCATION:SoFi Stadium\, Inglewood (Los Angeles)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇭 Suíça × 
  🇧🇦 Bósnia e Herzegovina\nFase: Grupo B\nMando de campo: 🇨🇭 Su
- íça\n\n📅 Data: 18 de junho de 2026\n🕐 Horário: 16:00 (Brasília 
- — BRT\, UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (
- Los Angeles) — EUA\nJogo nº 26 de 104\n\nFonte: FIFA — fifa.com\n\n—
- ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ íça\n\n📅 Data: quinta-feira\, 18 de junho de 2026\n🕐 Horário: 16:0
+ 0 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Local
+ : Inglewood (Los Angeles) — EUA\nJogo nº 26 de 104\n\nFonte: FIFA — fi
+ fa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito E
+ leitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -585,18 +591,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-027-eea2c900500d@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-027-e58db62c911c@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 SUMMARY:🇨🇦 Canadá × 🇶🇦 Catar — Grupo B
 LOCATION:BC Place\, Vancouver\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇦 Canadá × 
  🇶🇦 Catar\nFase: Grupo B\nMando de campo: 🇨🇦 Canadá\n\n📅 Dat
- a: 18 de junho de 2026\n🕐 Horário: 19:00 (Brasília — BRT\, UTC-3)\n\
- n🏟️ Estádio: BC Place\n📍 Local: Vancouver — Canadá\nJogo nº 27
-  de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no In
- stagram. Tudo sobre Direito Eleitoral.
+ a: quinta-feira\, 18 de junho de 2026\n🕐 Horário: 19:00 (Brasília — 
+ BRT\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — Canad
+ á\nJogo nº 27 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
+ oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -607,18 +613,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-028-7e8c04d2e2cd@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-028-8cf1dade746d@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 SUMMARY:🇲🇽 México × 🇰🇷 Coreia do Sul — Grupo A
 LOCATION:Estadio Akron\, Guadalajara\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇲🇽 México × 
  🇰🇷 Coreia do Sul\nFase: Grupo A\nMando de campo: 🇲🇽 México\n\n
- 📅 Data: 18 de junho de 2026\n🕐 Horário: 22:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Estadio Akron\n📍 Local: Guadalajara — Méxi
- co\nJogo nº 28 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
- oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: quinta-feira\, 18 de junho de 2026\n🕐 Horário: 22:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: Estadio Akron\n📍 Local: Guadal
+ ajara — México\nJogo nº 28 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -629,18 +635,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-029-435f49cde328@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-029-61d583e1344c@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260619T040000Z
 DTEND:20260619T060000Z
 SUMMARY:🇹🇷 Turquia × 🇵🇾 Paraguai — Grupo D
 LOCATION:Levi's Stadium\, Santa Clara (S.F. Bay)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇹🇷 Turquia × 
  🇵🇾 Paraguai\nFase: Grupo D\nMando de campo: 🇹🇷 Turquia\n\n📅 
- Data: 19 de junho de 2026\n🕐 Horário: 01:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa Clara (S.F. Bay) 
- — EUA\nJogo nº 29 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
- @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ Data: sexta-feira\, 19 de junho de 2026\n🕐 Horário: 01:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa Cla
+ ra (S.F. Bay) — EUA\nJogo nº 29 de 104\n\nFonte: FIFA — fifa.com\n\n
+ ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -651,18 +657,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-030-33a67d857854@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-030-92460b7ed70e@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 SUMMARY:🇺🇸 EUA × 🇦🇺 Austrália — Grupo D
 LOCATION:Lumen Field\, Seattle\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇺🇸 EUA × 🇦
  🇺 Austrália\nFase: Grupo D\nMando de campo: 🇺🇸 EUA\n\n📅 Data: 
- 19 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\n\n
- 🏟️ Estádio: Lumen Field\n📍 Local: Seattle — EUA\nJogo nº 30 de 
- 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instag
- ram. Tudo sobre Direito Eleitoral.
+ sexta-feira\, 19 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\
+ , UTC-3)\n\n🏟️ Estádio: Lumen Field\n📍 Local: Seattle — EUA\nJog
+ o nº 30 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.luc
+ as no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -673,8 +679,8 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-032-0f1773b621e7@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-032-835bbeecf6d3@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia × 🇲🇦 Marrocos — Grup
@@ -682,11 +688,11 @@ SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia × 🇲🇦 Marrocos — Grup
 LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🏴󠁧󠁢󠁳󠁣
  󠁴󠁿 Escócia × 🇲🇦 Marrocos\nFase: Grupo C\nMando de campo: 🏴
- 󠁧󠁢󠁳󠁣󠁴󠁿 Escócia\n\n📅 Data: 19 de junho de 2026\n🕐 H
- orário: 19:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Gillette St
- adium\n📍 Local: Foxborough (Boston) — EUA\nJogo nº 32 de 104\n\nFonte
- : FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo so
- bre Direito Eleitoral.
+ 󠁧󠁢󠁳󠁣󠁴󠁿 Escócia\n\n📅 Data: sexta-feira\, 19 de junho d
+ e 2026\n🕐 Horário: 19:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádi
+ o: Gillette Stadium\n📍 Local: Foxborough (Boston) — EUA\nJogo nº 32 d
+ e 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Inst
+ agram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -698,19 +704,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-031-d79775135876@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-031-1a4f0c4ce0e7@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 SUMMARY:🇧🇷 Brasil × 🇭🇹 Haiti — Grupo C
 LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇧🇷 Brasil × 
  🇭🇹 Haiti\nFase: Grupo C\nMando de campo: 🇧🇷 Brasil\n\n📅 Data
- : 19 de junho de 2026\n🕐 Horário: 21:30 (Brasília — BRT\, UTC-3)\n\n
- 🏟️ Estádio: Lincoln Financial Field\n📍 Local: Filadélfia — EUA\
- nJogo nº 31 de 104\n\n⚠️ Horário alterado pela FIFA em 01/04/2026 (er
- a 22h)\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Ins
- tagram. Tudo sobre Direito Eleitoral.
+ : sexta-feira\, 19 de junho de 2026\n🕐 Horário: 21:30 (Brasília — BR
+ T\, UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍 Local: Filad
+ élfia — EUA\nJogo nº 31 de 104\n\nFonte: FIFA — fifa.com\n\n———
+ \nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -721,18 +726,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-034-114f4168ce39@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-034-fd898e6262c4@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 SUMMARY:🇳🇱 Holanda × 🇸🇪 Suécia — Grupo F
 LOCATION:NRG Stadium\, Houston\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇳🇱 Holanda × 
  🇸🇪 Suécia\nFase: Grupo F\nMando de campo: 🇳🇱 Holanda\n\n📅 D
- ata: 20 de junho de 2026\n🕐 Horário: 14:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA\nJogo nº 34 
- de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Ins
- tagram. Tudo sobre Direito Eleitoral.
+ ata: sábado\, 20 de junho de 2026\n🕐 Horário: 14:00 (Brasília — BRT
+ \, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA\nJo
+ go nº 34 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lu
+ cas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -743,18 +748,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-033-039095652490@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-033-313e49b0273e@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 SUMMARY:🇩🇪 Alemanha × 🇨🇮 Costa do Marfim — Grupo E
 LOCATION:BMO Field\, Toronto\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇩🇪 Alemanha × 
  🇨🇮 Costa do Marfim\nFase: Grupo E\nMando de campo: 🇩🇪 Alemanha\
- n\n📅 Data: 20 de junho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\
- , UTC-3)\n\n🏟️ Estádio: BMO Field\n📍 Local: Toronto — Canadá\nJ
- ogo nº 33 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.l
- ucas no Instagram. Tudo sobre Direito Eleitoral.
+ n\n📅 Data: sábado\, 20 de junho de 2026\n🕐 Horário: 17:00 (Brasíli
+ a — BRT\, UTC-3)\n\n🏟️ Estádio: BMO Field\n📍 Local: Toronto — 
+ Canadá\nJogo nº 33 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
+ @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -765,18 +770,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-035-13bd34662bc3@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-035-aed07e7830cf@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 SUMMARY:🇪🇨 Equador × 🇨🇼 Curaçao — Grupo E
 LOCATION:Arrowhead Stadium\, Kansas City\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇪🇨 Equador × 
  🇨🇼 Curaçao\nFase: Grupo E\nMando de campo: 🇪🇨 Equador\n\n📅 
- Data: 20 de junho de 2026\n🕐 Horário: 21:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kansas City — EUA\nJ
- ogo nº 35 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.l
- ucas no Instagram. Tudo sobre Direito Eleitoral.
+ Data: sábado\, 20 de junho de 2026\n🕐 Horário: 21:00 (Brasília — BR
+ T\, UTC-3)\n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kansas City 
+ — EUA\nJogo nº 35 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
+ @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -787,18 +792,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-036-e3b319334c3b@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-036-76c190b28437@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 SUMMARY:🇹🇳 Tunísia × 🇯🇵 Japão — Grupo F
 LOCATION:Estadio BBVA\, Monterrey\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇹🇳 Tunísia × 
  🇯🇵 Japão\nFase: Grupo F\nMando de campo: 🇹🇳 Tunísia\n\n📅 D
- ata: 21 de junho de 2026\n🕐 Horário: 01:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: Estadio BBVA\n📍 Local: Monterrey — México\nJogo 
- nº 36 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas
-  no Instagram. Tudo sobre Direito Eleitoral.
+ ata: domingo\, 21 de junho de 2026\n🕐 Horário: 01:00 (Brasília — BRT
+ \, UTC-3)\n\n🏟️ Estádio: Estadio BBVA\n📍 Local: Monterrey — Méx
+ ico\nJogo nº 36 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bes
+ soni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -809,18 +814,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-037-02ca0e099e17@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-037-44377a19ff73@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 SUMMARY:🇪🇸 Espanha × 🇸🇦 Arábia Saudita — Grupo H
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇪🇸 Espanha × 
  🇸🇦 Arábia Saudita\nFase: Grupo H\nMando de campo: 🇪🇸 Espanha\n
- \n📅 Data: 21 de junho de 2026\n🕐 Horário: 13:00 (Brasília — BRT\,
-  UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta —
-  EUA\nJogo nº 37 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @be
- ssoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ \n📅 Data: domingo\, 21 de junho de 2026\n🕐 Horário: 13:00 (Brasília
+  — BRT\, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: A
+ tlanta — EUA\nJogo nº 37 de 104\n\nFonte: FIFA — fifa.com\n\n———
+ \nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -831,18 +836,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-038-db10edae4108@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-038-afd12f46f23a@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 SUMMARY:🇧🇪 Bélgica × 🇮🇷 Irã — Grupo G
 LOCATION:SoFi Stadium\, Inglewood (Los Angeles)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇧🇪 Bélgica × 
  🇮🇷 Irã\nFase: Grupo G\nMando de campo: 🇧🇪 Bélgica\n\n📅 Dat
- a: 21 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\n\
- n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los Angeles) — EU
- A\nJogo nº 38 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @besso
- ni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ a: domingo\, 21 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\,
+  UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los Angel
+ es) — EUA\nJogo nº 38 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
+ iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -853,18 +858,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-040-6e42ee6676fc@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-040-a063cd354012@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 SUMMARY:🇺🇾 Uruguai × 🇨🇻 Cabo Verde — Grupo H
 LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇺🇾 Uruguai × 
  🇨🇻 Cabo Verde\nFase: Grupo H\nMando de campo: 🇺🇾 Uruguai\n\n
- 📅 Data: 21 de junho de 2026\n🕐 Horário: 19:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Local: Miami Gardens —
-  EUA\nJogo nº 40 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @be
- ssoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: domingo\, 21 de junho de 2026\n🕐 Horário: 19:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Local: Miami 
+ Gardens — EUA\nJogo nº 40 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -875,18 +880,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-039-02f802244544@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-039-d49b8b45e66d@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 SUMMARY:🇳🇿 Nova Zelândia × 🇪🇬 Egito — Grupo G
 LOCATION:BC Place\, Vancouver\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇳🇿 Nova Zelând
  ia × 🇪🇬 Egito\nFase: Grupo G\nMando de campo: 🇳🇿 Nova Zelândi
- a\n\n📅 Data: 21 de junho de 2026\n🕐 Horário: 22:00 (Brasília — BR
- T\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — Canadá
- \nJogo nº 39 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @besson
- i.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ a\n\n📅 Data: domingo\, 21 de junho de 2026\n🕐 Horário: 22:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver 
+ — Canadá\nJogo nº 39 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
+ iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -897,18 +902,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-042-fdea23320cca@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-042-2627443dc7a3@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 SUMMARY:🇦🇷 Argentina × 🇦🇹 Áustria — Grupo J
 LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇦🇷 Argentina ×
   🇦🇹 Áustria\nFase: Grupo J\nMando de campo: 🇦🇷 Argentina\n\n
- 📅 Data: 22 de junho de 2026\n🕐 Horário: 14:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) —
-  EUA\nJogo nº 42 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @be
- ssoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: segunda-feira\, 22 de junho de 2026\n🕐 Horário: 14:00 (Bras
+ ília — BRT\, UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlin
+ gton (Dallas) — EUA\nJogo nº 42 de 104\n\nFonte: FIFA — fifa.com\n\n
+ ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -919,18 +924,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-043-f0c4cdd615bb@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-043-7d80e43b18e7@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 SUMMARY:🇫🇷 França × 🇮🇶 Iraque — Grupo I
 LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇫🇷 França × 
  🇮🇶 Iraque\nFase: Grupo I\nMando de campo: 🇫🇷 França\n\n📅 Da
- ta: 22 de junho de 2026\n🕐 Horário: 18:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: Lincoln Financial Field\n📍 Local: Filadélfia — EU
- A\nJogo nº 43 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @besso
- ni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ta: segunda-feira\, 22 de junho de 2026\n🕐 Horário: 18:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍 Local: 
+ Filadélfia — EUA\nJogo nº 43 de 104\n\nFonte: FIFA — fifa.com\n\n—
+ ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -941,18 +946,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-041-8100b190918c@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-041-a4a36a4fd119@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 SUMMARY:🇳🇴 Noruega × 🇸🇳 Senegal — Grupo I
 LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇳🇴 Noruega × 
  🇸🇳 Senegal\nFase: Grupo I\nMando de campo: 🇳🇴 Noruega\n\n📅 D
- ata: 22 de junho de 2026\n🕐 Horário: 21:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rutherford (NY/NJ) 
- — EUA\nJogo nº 41 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
- @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ata: segunda-feira\, 22 de junho de 2026\n🕐 Horário: 21:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rut
+ herford (NY/NJ) — EUA\nJogo nº 41 de 104\n\nFonte: FIFA — fifa.com\n\n
+ ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -963,18 +968,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-044-692fdd3bf34c@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-044-28511bb9e1a9@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 SUMMARY:🇯🇴 Jordânia × 🇩🇿 Argélia — Grupo J
 LOCATION:Levi's Stadium\, Santa Clara (S.F. Bay)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇯🇴 Jordânia ×
   🇩🇿 Argélia\nFase: Grupo J\nMando de campo: 🇯🇴 Jordânia\n\n
- 📅 Data: 23 de junho de 2026\n🕐 Horário: 00:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa Clara (S.F. Ba
- y) — EUA\nJogo nº 44 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSi
- ga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: terça-feira\, 23 de junho de 2026\n🕐 Horário: 00:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa
+  Clara (S.F. Bay) — EUA\nJogo nº 44 de 104\n\nFonte: FIFA — fifa.com\n
+ \n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral
+ .
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -985,18 +991,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-045-e81797f9ead2@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-045-43d3f8a5a9f8@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 SUMMARY:🇵🇹 Portugal × 🇺🇿 Uzbequistão — Grupo K
 LOCATION:NRG Stadium\, Houston\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇵🇹 Portugal × 
  🇺🇿 Uzbequistão\nFase: Grupo K\nMando de campo: 🇵🇹 Portugal\n\n
- 📅 Data: 23 de junho de 2026\n🕐 Horário: 14:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA\nJogo n
- º 45 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas 
- no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: terça-feira\, 23 de junho de 2026\n🕐 Horário: 14:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston 
+ — EUA\nJogo nº 45 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
+ @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1007,8 +1013,8 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-048-26b64a964c63@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-048-318234a88dbc@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra × 🇬🇭 Gana — Grupo 
@@ -1016,11 +1022,11 @@ SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra × 🇬🇭 Gana — Grupo
 LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🏴󠁧󠁢󠁥󠁮
  󠁧󠁿 Inglaterra × 🇬🇭 Gana\nFase: Grupo L\nMando de campo: 🏴
- 󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n\n📅 Data: 23 de junho de 2026\n🕐
-  Horário: 17:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Gillette 
- Stadium\n📍 Local: Foxborough (Boston) — EUA\nJogo nº 48 de 104\n\nFon
- te: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo 
- sobre Direito Eleitoral.
+ 󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n\n📅 Data: terça-feira\, 23 de junh
+ o de 2026\n🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Est
+ ádio: Gillette Stadium\n📍 Local: Foxborough (Boston) — EUA\nJogo nº 
+ 48 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no 
+ Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1032,18 +1038,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-047-b040c4b5b000@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-047-9449e44d0a89@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 SUMMARY:🇵🇦 Panamá × 🇭🇷 Croácia — Grupo L
 LOCATION:BMO Field\, Toronto\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇵🇦 Panamá × 
  🇭🇷 Croácia\nFase: Grupo L\nMando de campo: 🇵🇦 Panamá\n\n📅 
- Data: 23 de junho de 2026\n🕐 Horário: 20:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: BMO Field\n📍 Local: Toronto — Canadá\nJogo nº 
- 47 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no 
- Instagram. Tudo sobre Direito Eleitoral.
+ Data: terça-feira\, 23 de junho de 2026\n🕐 Horário: 20:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: BMO Field\n📍 Local: Toronto — Ca
+ nadá\nJogo nº 47 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @b
+ essoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1054,18 +1060,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-046-776e230e2ffd@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-046-9061ef97803d@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 SUMMARY:🇨🇴 Colômbia × 🇨🇩 RD Congo — Grupo K
 LOCATION:Estadio Akron\, Guadalajara\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇴 Colômbia ×
   🇨🇩 RD Congo\nFase: Grupo K\nMando de campo: 🇨🇴 Colômbia\n\n
- 📅 Data: 23 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Estadio Akron\n📍 Local: Guadalajara — Méxi
- co\nJogo nº 46 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
- oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: terça-feira\, 23 de junho de 2026\n🕐 Horário: 23:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: Estadio Akron\n📍 Local: Guadal
+ ajara — México\nJogo nº 46 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1076,18 +1082,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-049-a1d731fbff78@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-049-47009ad8dd0d@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:🇨🇭 Suíça × 🇨🇦 Canadá — Grupo B
 LOCATION:BC Place\, Vancouver\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇭 Suíça × 
  🇨🇦 Canadá\nFase: Grupo B\nMando de campo: 🇨🇭 Suíça\n\n📅 D
- ata: 24 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — Canadá\nJogo nº 
- 49 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no 
- Instagram. Tudo sobre Direito Eleitoral.
+ ata: quarta-feira\, 24 de junho de 2026\n🕐 Horário: 16:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — C
+ anadá\nJogo nº 49 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @
+ bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1098,18 +1104,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-050-fc8112d78249@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-050-2cd12b08c0da@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:🇧🇦 Bósnia e Herzegovina × 🇶🇦 Catar — Grupo B
 LOCATION:Lumen Field\, Seattle\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇧🇦 Bósnia e He
  rzegovina × 🇶🇦 Catar\nFase: Grupo B\nMando de campo: 🇧🇦 Bósni
- a e Herzegovina\n\n📅 Data: 24 de junho de 2026\n🕐 Horário: 16:00 (Br
- asília — BRT\, UTC-3)\n\n🏟️ Estádio: Lumen Field\n📍 Local: Seat
- tle — EUA\nJogo nº 50 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
- iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ a e Herzegovina\n\n📅 Data: quarta-feira\, 24 de junho de 2026\n🕐 Hor
+ ário: 16:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Lumen Field\n
+ 📍 Local: Seattle — EUA\nJogo nº 50 de 104\n\nFonte: FIFA — fifa.com
+ \n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitor
+ al.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1120,18 +1127,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-051-4165dd1b7a80@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-051-e0eef1ad5fb6@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🇲🇦 Marrocos × 🇭🇹 Haiti — Grupo C
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇲🇦 Marrocos × 
  🇭🇹 Haiti\nFase: Grupo C\nMando de campo: 🇲🇦 Marrocos\n\n📅 Da
- ta: 24 de junho de 2026\n🕐 Horário: 19:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta — EUA\nJog
- o nº 51 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.luc
- as no Instagram. Tudo sobre Direito Eleitoral.
+ ta: quarta-feira\, 24 de junho de 2026\n🕐 Horário: 19:00 (Brasília —
+  BRT\, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlan
+ ta — EUA\nJogo nº 51 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSi
+ ga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1142,8 +1149,8 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-052-3a31d82d8af2@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-052-f98be8dcbcb7@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia × 🇧🇷 Brasil — Grupo 
@@ -1151,11 +1158,11 @@ SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia × 🇧🇷 Brasil — Grupo
 LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🏴󠁧󠁢󠁳󠁣
  󠁴󠁿 Escócia × 🇧🇷 Brasil\nFase: Grupo C\nMando de campo: 🏴
- 󠁧󠁢󠁳󠁣󠁴󠁿 Escócia\n\n📅 Data: 24 de junho de 2026\n🕐 H
- orário: 19:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock S
- tadium\n📍 Local: Miami Gardens — EUA\nJogo nº 52 de 104\n\nFonte: FIF
- A — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre D
- ireito Eleitoral.
+ 󠁧󠁢󠁳󠁣󠁴󠁿 Escócia\n\n📅 Data: quarta-feira\, 24 de junho 
+ de 2026\n🕐 Horário: 19:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estád
+ io: Hard Rock Stadium\n📍 Local: Miami Gardens — EUA\nJogo nº 52 de 10
+ 4\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagra
+ m. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1167,18 +1174,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-054-249890c84841@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-054-06f3991d196c@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:🇨🇿 Tchéquia × 🇲🇽 México — Grupo A
 LOCATION:Estádio Azteca\, Cidade do México\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇿 Tchéquia ×
   🇲🇽 México\nFase: Grupo A\nMando de campo: 🇨🇿 Tchéquia\n\n
- 📅 Data: 24 de junho de 2026\n🕐 Horário: 22:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Cidade do México 
- — México\nJogo nº 54 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
- iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: quarta-feira\, 24 de junho de 2026\n🕐 Horário: 22:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Cida
+ de do México — México\nJogo nº 54 de 104\n\nFonte: FIFA — fifa.com\n
+ \n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral
+ .
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1189,18 +1197,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-053-bb518a574118@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-053-50d906536e90@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:🇿🇦 África do Sul × 🇰🇷 Coreia do Sul — Grupo A
 LOCATION:Estadio BBVA\, Monterrey\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇿🇦 África do S
  ul × 🇰🇷 Coreia do Sul\nFase: Grupo A\nMando de campo: 🇿🇦 Áfri
- ca do Sul\n\n📅 Data: 24 de junho de 2026\n🕐 Horário: 22:00 (Brasíli
- a — BRT\, UTC-3)\n\n🏟️ Estádio: Estadio BBVA\n📍 Local: Monterrey
-  — México\nJogo nº 53 de 104\n\nFonte: FIFA — fifa.com\n\n———\n
- Siga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ca do Sul\n\n📅 Data: quarta-feira\, 24 de junho de 2026\n🕐 Horário: 
+ 22:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Estadio BBVA\n📍 L
+ ocal: Monterrey — México\nJogo nº 53 de 104\n\nFonte: FIFA — fifa.com
+ \n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitor
+ al.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1211,18 +1220,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-056-4073d7869f31@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-056-aecfce320bef@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:🇪🇨 Equador × 🇩🇪 Alemanha — Grupo E
 LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇪🇨 Equador × 
  🇩🇪 Alemanha\nFase: Grupo E\nMando de campo: 🇪🇨 Equador\n\n📅 
- Data: 25 de junho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rutherford (NY/NJ) 
- — EUA\nJogo nº 56 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga 
- @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ Data: quinta-feira\, 25 de junho de 2026\n🕐 Horário: 17:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rut
+ herford (NY/NJ) — EUA\nJogo nº 56 de 104\n\nFonte: FIFA — fifa.com\n\n
+ ———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1233,18 +1242,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-055-688eda84f519@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-055-6110a85f727e@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:🇨🇼 Curaçao × 🇨🇮 Costa do Marfim — Grupo E
 LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇼 Curaçao × 
  🇨🇮 Costa do Marfim\nFase: Grupo E\nMando de campo: 🇨🇼 Curaçao\
- n\n📅 Data: 25 de junho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\
- , UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍 Local: Filadél
- fia — EUA\nJogo nº 55 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
- iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ n\n📅 Data: quinta-feira\, 25 de junho de 2026\n🕐 Horário: 17:00 (Bra
+ sília — BRT\, UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍 
+ Local: Filadélfia — EUA\nJogo nº 55 de 104\n\nFonte: FIFA — fifa.com\
+ n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitora
+ l.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1255,18 +1265,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-057-e2bcd1241a97@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-057-8936904b5e2c@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:🇯🇵 Japão × 🇸🇪 Suécia — Grupo F
 LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇯🇵 Japão × 
  🇸🇪 Suécia\nFase: Grupo F\nMando de campo: 🇯🇵 Japão\n\n📅 Da
- ta: 25 de junho de 2026\n🕐 Horário: 20:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) — EUA\nJ
- ogo nº 57 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.l
- ucas no Instagram. Tudo sobre Direito Eleitoral.
+ ta: quinta-feira\, 25 de junho de 2026\n🕐 Horário: 20:00 (Brasília —
+  BRT\, UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dal
+ las) — EUA\nJogo nº 57 de 104\n\nFonte: FIFA — fifa.com\n\n———\n
+ Siga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1277,18 +1287,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-058-7c2ebe204906@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-058-0646a8ddb931@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:🇹🇳 Tunísia × 🇳🇱 Holanda — Grupo F
 LOCATION:Arrowhead Stadium\, Kansas City\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇹🇳 Tunísia × 
  🇳🇱 Holanda\nFase: Grupo F\nMando de campo: 🇹🇳 Tunísia\n\n📅 
- Data: 25 de junho de 2026\n🕐 Horário: 20:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kansas City — EUA\nJ
- ogo nº 58 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.l
- ucas no Instagram. Tudo sobre Direito Eleitoral.
+ Data: quinta-feira\, 25 de junho de 2026\n🕐 Horário: 20:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kansas
+  City — EUA\nJogo nº 58 de 104\n\nFonte: FIFA — fifa.com\n\n———\
+ nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1299,18 +1309,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-059-dd248846dd87@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-059-db0581367204@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:🇹🇷 Turquia × 🇺🇸 EUA — Grupo D
 LOCATION:SoFi Stadium\, Inglewood (Los Angeles)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇹🇷 Turquia × 
  🇺🇸 EUA\nFase: Grupo D\nMando de campo: 🇹🇷 Turquia\n\n📅 Data:
-  25 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BRT\, UTC-3)\n\n
- 🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los Angeles) — EUA
- \nJogo nº 59 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @besson
- i.lucas no Instagram. Tudo sobre Direito Eleitoral.
+  quinta-feira\, 25 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BR
+ T\, UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los An
+ geles) — EUA\nJogo nº 59 de 104\n\nFonte: FIFA — fifa.com\n\n———
+ \nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1321,18 +1331,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-060-96e5431fdd84@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-060-b33b44b96cae@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:🇵🇾 Paraguai × 🇦🇺 Austrália — Grupo D
 LOCATION:Levi's Stadium\, Santa Clara (S.F. Bay)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇵🇾 Paraguai × 
  🇦🇺 Austrália\nFase: Grupo D\nMando de campo: 🇵🇾 Paraguai\n\n
- 📅 Data: 25 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa Clara (S.F. Ba
- y) — EUA\nJogo nº 60 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSi
- ga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: quinta-feira\, 25 de junho de 2026\n🕐 Horário: 23:00 (Brasí
+ lia — BRT\, UTC-3)\n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa
+  Clara (S.F. Bay) — EUA\nJogo nº 60 de 104\n\nFonte: FIFA — fifa.com\n
+ \n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral
+ .
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1343,18 +1354,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-066-dce5a0340e78@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-066-dcf90d1d1323@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:🇳🇴 Noruega × 🇫🇷 França — Grupo I
 LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇳🇴 Noruega × 
  🇫🇷 França\nFase: Grupo I\nMando de campo: 🇳🇴 Noruega\n\n📅 D
- ata: 26 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: Gillette Stadium\n📍 Local: Foxborough (Boston) — 
- EUA\nJogo nº 66 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bes
- soni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ata: sexta-feira\, 26 de junho de 2026\n🕐 Horário: 16:00 (Brasília —
+  BRT\, UTC-3)\n\n🏟️ Estádio: Gillette Stadium\n📍 Local: Foxborough
+  (Boston) — EUA\nJogo nº 66 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1365,18 +1376,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-065-7c2d5dd61117@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-065-b99b31dad99c@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:🇸🇳 Senegal × 🇮🇶 Iraque — Grupo I
 LOCATION:BMO Field\, Toronto\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇸🇳 Senegal × 
  🇮🇶 Iraque\nFase: Grupo I\nMando de campo: 🇸🇳 Senegal\n\n📅 Da
- ta: 26 de junho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: BMO Field\n📍 Local: Toronto — Canadá\nJogo nº 65
-  de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no In
- stagram. Tudo sobre Direito Eleitoral.
+ ta: sexta-feira\, 26 de junho de 2026\n🕐 Horário: 16:00 (Brasília — 
+ BRT\, UTC-3)\n\n🏟️ Estádio: BMO Field\n📍 Local: Toronto — Canad
+ á\nJogo nº 65 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
+ oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1387,18 +1398,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-061-7764dc947c12@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-061-a20cb33a329a@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:🇨🇻 Cabo Verde × 🇸🇦 Arábia Saudita — Grupo H
 LOCATION:NRG Stadium\, Houston\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇻 Cabo Verde 
  × 🇸🇦 Arábia Saudita\nFase: Grupo H\nMando de campo: 🇨🇻 Cabo V
- erde\n\n📅 Data: 26 de junho de 2026\n🕐 Horário: 21:00 (Brasília —
-  BRT\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA
- \nJogo nº 61 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @besson
- i.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ erde\n\n📅 Data: sexta-feira\, 26 de junho de 2026\n🕐 Horário: 21:00 
+ (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: H
+ ouston — EUA\nJogo nº 61 de 104\n\nFonte: FIFA — fifa.com\n\n———
+ \nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1409,18 +1420,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-062-fce1efa74d98@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-062-40895626e266@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:🇺🇾 Uruguai × 🇪🇸 Espanha — Grupo H
 LOCATION:Estadio Akron\, Guadalajara\, México
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇺🇾 Uruguai × 
  🇪🇸 Espanha\nFase: Grupo H\nMando de campo: 🇺🇾 Uruguai\n\n📅 D
- ata: 26 de junho de 2026\n🕐 Horário: 21:00 (Brasília — BRT\, UTC-3)\
- n\n🏟️ Estádio: Estadio Akron\n📍 Local: Guadalajara — México\nJo
- go nº 62 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lu
- cas no Instagram. Tudo sobre Direito Eleitoral.
+ ata: sexta-feira\, 26 de junho de 2026\n🕐 Horário: 21:00 (Brasília —
+  BRT\, UTC-3)\n\n🏟️ Estádio: Estadio Akron\n📍 Local: Guadalajara 
+ — México\nJogo nº 62 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
+ iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1431,18 +1442,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-063-b03e984103a7@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-063-484424233172@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:🇪🇬 Egito × 🇮🇷 Irã — Grupo G
 LOCATION:Lumen Field\, Seattle\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇪🇬 Egito × 
  🇮🇷 Irã\nFase: Grupo G\nMando de campo: 🇪🇬 Egito\n\n📅 Data: 
- 27 de junho de 2026\n🕐 Horário: 00:00 (Brasília — BRT\, UTC-3)\n\n
- 🏟️ Estádio: Lumen Field\n📍 Local: Seattle — EUA\nJogo nº 63 de 
- 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instag
- ram. Tudo sobre Direito Eleitoral.
+ sábado\, 27 de junho de 2026\n🕐 Horário: 00:00 (Brasília — BRT\, UT
+ C-3)\n\n🏟️ Estádio: Lumen Field\n📍 Local: Seattle — EUA\nJogo n
+ º 63 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas 
+ no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1453,18 +1464,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-064-aff3fe937904@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-064-594a46533222@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:🇳🇿 Nova Zelândia × 🇧🇪 Bélgica — Grupo G
 LOCATION:BC Place\, Vancouver\, Canadá
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇳🇿 Nova Zelând
  ia × 🇧🇪 Bélgica\nFase: Grupo G\nMando de campo: 🇳🇿 Nova Zelâ
- ndia\n\n📅 Data: 27 de junho de 2026\n🕐 Horário: 00:00 (Brasília —
-  BRT\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — Cana
- dá\nJogo nº 64 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bes
- soni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ ndia\n\n📅 Data: sábado\, 27 de junho de 2026\n🕐 Horário: 00:00 (Bra
+ sília — BRT\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouve
+ r — Canadá\nJogo nº 64 de 104\n\nFonte: FIFA — fifa.com\n\n———\
+ nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1475,8 +1486,8 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-072-e43163dc8617@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-072-c817bd07b679@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:🇵🇦 Panamá × 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Gru
@@ -1484,11 +1495,11 @@ SUMMARY:🇵🇦 Panamá × 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra — Gru
 LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇵🇦 Panamá × 
  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\nFase: Grupo L\nMando de campo: 
- 🇵🇦 Panamá\n\n📅 Data: 27 de junho de 2026\n🕐 Horário: 18:00 (B
- rasília — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local:
-  East Rutherford (NY/NJ) — EUA\nJogo nº 72 de 104\n\nFonte: FIFA — fif
- a.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito El
- eitoral.
+ 🇵🇦 Panamá\n\n📅 Data: sábado\, 27 de junho de 2026\n🕐 Horário
+ : 18:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n
+ 📍 Local: East Rutherford (NY/NJ) — EUA\nJogo nº 72 de 104\n\nFonte: F
+ IFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre
+  Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1500,18 +1511,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-071-c2ed9e2416bc@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-071-4d717aab0ef2@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:🇭🇷 Croácia × 🇬🇭 Gana — Grupo L
 LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇭🇷 Croácia × 
  🇬🇭 Gana\nFase: Grupo L\nMando de campo: 🇭🇷 Croácia\n\n📅 Dat
- a: 27 de junho de 2026\n🕐 Horário: 18:00 (Brasília — BRT\, UTC-3)\n\
- n🏟️ Estádio: Lincoln Financial Field\n📍 Local: Filadélfia — EUA
- \nJogo nº 71 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @besson
- i.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ a: sábado\, 27 de junho de 2026\n🕐 Horário: 18:00 (Brasília — BRT\,
+  UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍 Local: Filadélf
+ ia — EUA\nJogo nº 71 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSi
+ ga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1522,18 +1533,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-070-fb71195c048b@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-070-848efea7be2e@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:🇨🇴 Colômbia × 🇵🇹 Portugal — Grupo K
 LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇴 Colômbia ×
   🇵🇹 Portugal\nFase: Grupo K\nMando de campo: 🇨🇴 Colômbia\n\n
- 📅 Data: 27 de junho de 2026\n🕐 Horário: 20:30 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Local: Miami Gardens —
-  EUA\nJogo nº 70 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @be
- ssoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: sábado\, 27 de junho de 2026\n🕐 Horário: 20:30 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Local: Miami 
+ Gardens — EUA\nJogo nº 70 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1544,18 +1555,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-069-876f996196cb@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-069-b69d77cd437b@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:🇨🇩 RD Congo × 🇺🇿 Uzbequistão — Grupo K
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇩 RD Congo × 
  🇺🇿 Uzbequistão\nFase: Grupo K\nMando de campo: 🇨🇩 RD Congo\n\n
- 📅 Data: 27 de junho de 2026\n🕐 Horário: 20:30 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta — E
- UA\nJogo nº 69 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
- oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: sábado\, 27 de junho de 2026\n🕐 Horário: 20:30 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: At
+ lanta — EUA\nJogo nº 69 de 104\n\nFonte: FIFA — fifa.com\n\n———\
+ nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1566,18 +1577,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-067-0699a72b8679@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-067-7970bd56df83@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🇩🇿 Argélia × 🇦🇹 Áustria — Grupo J
 LOCATION:Arrowhead Stadium\, Kansas City\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇩🇿 Argélia × 
  🇦🇹 Áustria\nFase: Grupo J\nMando de campo: 🇩🇿 Argélia\n\n📅
-  Data: 27 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BRT\, UTC-3
- )\n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kansas City — EUA\n
- Jogo nº 67 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.
- lucas no Instagram. Tudo sobre Direito Eleitoral.
+  Data: sábado\, 27 de junho de 2026\n🕐 Horário: 23:00 (Brasília — B
+ RT\, UTC-3)\n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kansas City
+  — EUA\nJogo nº 67 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga
+  @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1588,18 +1599,18 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-068-141822fb5551@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-068-8655b2687911@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🇯🇴 Jordânia × 🇦🇷 Argentina — Grupo J
 LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇯🇴 Jordânia ×
   🇦🇷 Argentina\nFase: Grupo J\nMando de campo: 🇯🇴 Jordânia\n\n
- 📅 Data: 27 de junho de 2026\n🕐 Horário: 23:00 (Brasília — BRT\, U
- TC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) —
-  EUA\nJogo nº 68 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @be
- ssoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 📅 Data: sábado\, 27 de junho de 2026\n🕐 Horário: 23:00 (Brasília 
+ — BRT\, UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (
+ Dallas) — EUA\nJogo nº 68 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1610,293 +1621,524 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-073-7946c73573a8@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260629T010000Z
-DTEND:20260629T030000Z
-SUMMARY:2º Grupo A × 2º Grupo B — Rodada de 32 (Jogo 73)
+UID:copa2026-073-d086c895c92f@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:🇿🇦 África do Sul × 🇨🇦 Canadá — Rodada de 32 (Jogo 
+ 73)
 LOCATION:SoFi Stadium\, Inglewood (Los Angeles)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 2º Grupo A × 2º Gr
- upo B\nFase: Rodada de 32 (Jogo 73)\nMando de campo: 2º Grupo A\n\n📅 Da
- ta: 28 de junho de 2026\n🕐 Horário: 22:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los Angeles) — E
- UA\nJogo nº 73 de 104\n\n⚠️ Horário estimado pela região — confirm
- ar com FIFA após fase de grupos\n\nFonte: FIFA — fifa.com\n\n———\n
- Siga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇿🇦 África do S
+ ul × 🇨🇦 Canadá\nFase: Rodada de 32 (Jogo 73)\nMando de campo: 🇿
+ 🇦 África do Sul\n\n📅 Data: domingo\, 28 de junho de 2026\n🕐 Horá
+ rio: 16:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n
+ 📍 Local: Inglewood (Los Angeles) — EUA\nJogo nº 73 de 104\n\nFonte: F
+ IFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre
+  Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:2º Grupo A × 2º Grupo B — Rodada de 32 (Jogo 73)
+DESCRIPTION:🇿🇦 África do Sul × 🇨🇦 Canadá — Rodada de 32 (J
+ ogo 73)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-076-37c2439b7c5c@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260629T210000Z
-DTEND:20260629T230000Z
-SUMMARY:1º Grupo C × 2º Grupo F — Rodada de 32 (Jogo 76)
+UID:copa2026-076-9a53ce49b229@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:🇧🇷 Brasil × 🇯🇵 Japão — Rodada de 32 (Jogo 76)
 LOCATION:NRG Stadium\, Houston\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo C × 2º Gr
- upo F\nFase: Rodada de 32 (Jogo 76)\nMando de campo: 1º Grupo C\n\n📅 Da
- ta: 29 de junho de 2026\n🕐 Horário: 18:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: NRG Stadium\n📍 Local: Houston — EUA\nJogo nº 76 d
- e 104\n\n⚠️ Horário estimado pela região — confirmar com FIFA\n\nFo
- nte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo
-  sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇧🇷 Brasil × 
+ 🇯🇵 Japão\nFase: Rodada de 32 (Jogo 76)\nMando de campo: 🇧🇷 Bra
+ sil\n\n📅 Data: segunda-feira\, 29 de junho de 2026\n🕐 Horário: 14:00
+  (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: 
+ Houston — EUA\nJogo nº 76 de 104\n\nFonte: FIFA — fifa.com\n\n——
+ —\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo C × 2º Grupo F — Rodada de 32 (Jogo 76)
+DESCRIPTION:🇧🇷 Brasil × 🇯🇵 Japão — Rodada de 32 (Jogo 76)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-074-f2006f05b3df@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260629T230000Z
-DTEND:20260630T010000Z
-SUMMARY:1º Grupo E × 3º A/B/C/D/F — Rodada de 32 (Jogo 74)
+UID:copa2026-074-71e871f51d0b@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:🇩🇪 Alemanha × 🇵🇾 Paraguai — Rodada de 32 (Jogo 74)
 LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo E × 3º A/
- B/C/D/F\nFase: Rodada de 32 (Jogo 74)\nMando de campo: 1º Grupo E\n\n📅 
- Data: 29 de junho de 2026\n🕐 Horário: 20:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Gillette Stadium\n📍 Local: Foxborough (Boston) —
-  EUA\nJogo nº 74 de 104\n\n⚠️ Horário estimado pela região — confi
- rmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas
-  no Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇩🇪 Alemanha × 
+ 🇵🇾 Paraguai\nFase: Rodada de 32 (Jogo 74)\nMando de campo: 🇩🇪 A
+ lemanha\n\n📅 Data: segunda-feira\, 29 de junho de 2026\n🕐 Horário: 1
+ 7:30 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Gillette Stadium\n
+ 📍 Local: Foxborough (Boston) — EUA\nJogo nº 74 de 104\n\nFonte: FIFA 
+ — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Dir
+ eito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo E × 3º A/B/C/D/F — Rodada de 32 (Jogo 74)
+DESCRIPTION:🇩🇪 Alemanha × 🇵🇾 Paraguai — Rodada de 32 (Jogo 7
+ 4)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-075-c8129987baa8@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260630T000000Z
-DTEND:20260630T020000Z
-SUMMARY:1º Grupo F × 2º Grupo C — Rodada de 32 (Jogo 75)
+UID:copa2026-075-6c44f2dd1fbb@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260630T010000Z
+DTEND:20260630T030000Z
+SUMMARY:🇳🇱 Holanda × 🇲🇦 Marrocos — Rodada de 32 (Jogo 75)
 LOCATION:Estadio BBVA\, Monterrey\, México
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo F × 2º Gr
- upo C\nFase: Rodada de 32 (Jogo 75)\nMando de campo: 1º Grupo F\n\n📅 Da
- ta: 29 de junho de 2026\n🕐 Horário: 21:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: Estadio BBVA\n📍 Local: Monterrey — México\nJogo n
- º 75 de 104\n\n⚠️ Horário estimado pela região — confirmar com FIF
- A\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagra
- m. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇳🇱 Holanda × 
+ 🇲🇦 Marrocos\nFase: Rodada de 32 (Jogo 75)\nMando de campo: 🇳🇱 H
+ olanda\n\n📅 Data: segunda-feira\, 29 de junho de 2026\n🕐 Horário: 22
+ :00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Estadio BBVA\n📍 Loc
+ al: Monterrey — México\nJogo nº 75 de 104\n\nFonte: FIFA — fifa.com\n
+ \n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral
+ .
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo F × 2º Grupo C — Rodada de 32 (Jogo 75)
+DESCRIPTION:🇳🇱 Holanda × 🇲🇦 Marrocos — Rodada de 32 (Jogo 75
+ )
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-078-5137b6544580@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-078-90ea9f48a7a7@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260630T170000Z
+DTEND:20260630T190000Z
+SUMMARY:🇨🇮 Costa do Marfim × 🇳🇴 Noruega — Rodada de 32 (Jogo
+  78)
+LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇮 Costa do Mar
+ fim × 🇳🇴 Noruega\nFase: Rodada de 32 (Jogo 78)\nMando de campo: 🇨
+ 🇮 Costa do Marfim\n\n📅 Data: terça-feira\, 30 de junho de 2026\n🕐
+  Horário: 14:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: AT&T Stad
+ ium\n📍 Local: Arlington (Dallas) — EUA\nJogo nº 78 de 104\n\nFonte: F
+ IFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre
+  Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇮 Costa do Marfim × 🇳🇴 Noruega — Rodada de 32 (
+ Jogo 78)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-077-aa9805f64f29@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-SUMMARY:2º Grupo E × 2º Grupo I — Rodada de 32 (Jogo 78)
-LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 2º Grupo E × 2º Gr
- upo I\nFase: Rodada de 32 (Jogo 78)\nMando de campo: 2º Grupo E\n\n📅 Da
- ta: 30 de junho de 2026\n🕐 Horário: 18:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) — EUA\nJ
- ogo nº 78 de 104\n\n⚠️ Horário estimado pela região — confirmar co
- m FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Ins
- tagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2º Grupo E × 2º Grupo I — Rodada de 32 (Jogo 78)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-077-91a33ab8d4f5@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260630T230000Z
-DTEND:20260701T010000Z
-SUMMARY:1º Grupo I × 3º C/D/F/G/H — Rodada de 32 (Jogo 77)
+SUMMARY:🇫🇷 França × 🇸🇪 Suécia — Rodada de 32 (Jogo 77)
 LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo I × 3º C/
- D/F/G/H\nFase: Rodada de 32 (Jogo 77)\nMando de campo: 1º Grupo I\n\n📅 
- Data: 30 de junho de 2026\n🕐 Horário: 20:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rutherford (NY/NJ) 
- — EUA\nJogo nº 77 de 104\n\n⚠️ Horário estimado pela região — co
- nfirmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lu
- cas no Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇫🇷 França × 
+ 🇸🇪 Suécia\nFase: Rodada de 32 (Jogo 77)\nMando de campo: 🇫🇷 Fr
+ ança\n\n📅 Data: terça-feira\, 30 de junho de 2026\n🕐 Horário: 18:0
+ 0 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Lo
+ cal: East Rutherford (NY/NJ) — EUA\nJogo nº 77 de 104\n\nFonte: FIFA —
+  fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direit
+ o Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo I × 3º C/D/F/G/H — Rodada de 32 (Jogo 77)
+DESCRIPTION:🇫🇷 França × 🇸🇪 Suécia — Rodada de 32 (Jogo 77)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-079-0368710645c2@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260701T000000Z
-DTEND:20260701T020000Z
-SUMMARY:1º Grupo A × 3º C/E/F/H/I — Rodada de 32 (Jogo 79)
+UID:copa2026-079-d03a1357a41c@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:🇲🇽 México × 🇪🇨 Equador — Rodada de 32 (Jogo 79)
 LOCATION:Estádio Azteca\, Cidade do México\, México
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo A × 3º C/
- E/F/H/I\nFase: Rodada de 32 (Jogo 79)\nMando de campo: 1º Grupo A\n\n📅 
- Data: 30 de junho de 2026\n🕐 Horário: 21:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Cidade do México — M
- éxico\nJogo nº 79 de 104\n\n⚠️ Horário estimado pela região — con
- firmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.luc
- as no Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇲🇽 México × 
+ 🇪🇨 Equador\nFase: Rodada de 32 (Jogo 79)\nMando de campo: 🇲🇽 M
+ éxico\n\n📅 Data: terça-feira\, 30 de junho de 2026\n🕐 Horário: 22:
+ 00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 L
+ ocal: Cidade do México — México\nJogo nº 79 de 104\n\nFonte: FIFA — 
+ fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito
+  Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo A × 3º C/E/F/H/I — Rodada de 32 (Jogo 79)
+DESCRIPTION:🇲🇽 México × 🇪🇨 Equador — Rodada de 32 (Jogo 79)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-080-936ca8d16a45@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-080-e5c8e9150a61@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260701T160000Z
+DTEND:20260701T180000Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra × 🇨🇩 RD Congo — Ro
+ dada de 32 (Jogo 80)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🏴󠁧󠁢󠁥󠁮
+ 󠁧󠁿 Inglaterra × 🇨🇩 RD Congo\nFase: Rodada de 32 (Jogo 80)\nMan
+ do de campo: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n\n📅 Data: quarta-f
+ eira\, 01 de julho de 2026\n🕐 Horário: 13:00 (Brasília — BRT\, UTC-3
+ )\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta — EUA\n
+ Jogo nº 80 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.
+ lucas no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra × 🇨🇩 RD Congo 
+ — Rodada de 32 (Jogo 80)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-082-e34d01e10e41@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-SUMMARY:1º Grupo L × 3º E/H/I/J/K — Rodada de 32 (Jogo 80)
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo L × 3º E/
- H/I/J/K\nFase: Rodada de 32 (Jogo 80)\nMando de campo: 1º Grupo L\n\n📅 
- Data: 01 de julho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta — EUA\nJ
- ogo nº 80 de 104\n\n⚠️ Horário estimado pela região — confirmar co
- m FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Ins
- tagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:1º Grupo L × 3º E/H/I/J/K — Rodada de 32 (Jogo 80)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-082-6427e7b76032@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260702T010000Z
-DTEND:20260702T030000Z
-SUMMARY:1º Grupo G × 3º A/E/H/I/J — Rodada de 32 (Jogo 82)
+SUMMARY:🇧🇪 Bélgica × 🇸🇳 Senegal — Rodada de 32 (Jogo 82)
 LOCATION:Lumen Field\, Seattle\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo G × 3º A/
- E/H/I/J\nFase: Rodada de 32 (Jogo 82)\nMando de campo: 1º Grupo G\n\n📅 
- Data: 01 de julho de 2026\n🕐 Horário: 22:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Lumen Field\n📍 Local: Seattle — EUA\nJogo nº 82
-  de 104\n\n⚠️ Horário estimado pela região — confirmar com FIFA\n\n
- Fonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tu
- do sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇧🇪 Bélgica × 
+ 🇸🇳 Senegal\nFase: Rodada de 32 (Jogo 82)\nMando de campo: 🇧🇪 B
+ élgica\n\n📅 Data: quarta-feira\, 01 de julho de 2026\n🕐 Horário: 17
+ :00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Lumen Field\n📍 Loca
+ l: Seattle — EUA\nJogo nº 82 de 104\n\nFonte: FIFA — fifa.com\n\n—
+ ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo G × 3º A/E/H/I/J — Rodada de 32 (Jogo 82)
+DESCRIPTION:🇧🇪 Bélgica × 🇸🇳 Senegal — Rodada de 32 (Jogo 82
+ )
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-081-00e288ac8df1@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260702T040000Z
-DTEND:20260702T060000Z
-SUMMARY:1º Grupo D × 3º B/E/F/I/J — Rodada de 32 (Jogo 81)
+UID:copa2026-081-f73c27528ff5@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:🇺🇸 EUA × 🇧🇦 Bósnia e Herzegovina — Rodada de 32 (Jo
+ go 81)
 LOCATION:Levi's Stadium\, Santa Clara (S.F. Bay)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo D × 3º B/
- E/F/I/J\nFase: Rodada de 32 (Jogo 81)\nMando de campo: 1º Grupo D\n\n📅 
- Data: 02 de julho de 2026\n🕐 Horário: 01:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Levi's Stadium\n📍 Local: Santa Clara (S.F. Bay) 
- — EUA\nJogo nº 81 de 104\n\n⚠️ Horário estimado pela região — co
- nfirmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lu
- cas no Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇺🇸 EUA × 🇧
+ 🇦 Bósnia e Herzegovina\nFase: Rodada de 32 (Jogo 81)\nMando de campo: 
+ 🇺🇸 EUA\n\n📅 Data: quarta-feira\, 01 de julho de 2026\n🕐 Horári
+ o: 21:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Levi's Stadium\n
+ 📍 Local: Santa Clara (S.F. Bay) — EUA\nJogo nº 81 de 104\n\nFonte: FI
+ FA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre 
+ Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo D × 3º B/E/F/I/J — Rodada de 32 (Jogo 81)
+DESCRIPTION:🇺🇸 EUA × 🇧🇦 Bósnia e Herzegovina — Rodada de 32
+  (Jogo 81)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-083-b14ce5ac0f0c@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260702T200000Z
-DTEND:20260702T220000Z
-SUMMARY:2º Grupo K × 2º Grupo L — Rodada de 32 (Jogo 83)
-LOCATION:BMO Field\, Toronto\, Canadá
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 2º Grupo K × 2º Gr
- upo L\nFase: Rodada de 32 (Jogo 83)\nMando de campo: 2º Grupo K\n\n📅 Da
- ta: 02 de julho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: BMO Field\n📍 Local: Toronto — Canadá\nJogo nº 83
-  de 104\n\n⚠️ Horário estimado pela região — confirmar com FIFA\n\n
- Fonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tu
- do sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2º Grupo K × 2º Grupo L — Rodada de 32 (Jogo 83)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-084-c873cdadfcb6@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260703T010000Z
-DTEND:20260703T030000Z
-SUMMARY:1º Grupo H × 2º Grupo J — Rodada de 32 (Jogo 84)
+UID:copa2026-084-b2f6d9d92e9f@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+SUMMARY:🇪🇸 Espanha × 🇦🇹 Áustria — Rodada de 32 (Jogo 84)
 LOCATION:SoFi Stadium\, Inglewood (Los Angeles)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo H × 2º Gr
- upo J\nFase: Rodada de 32 (Jogo 84)\nMando de campo: 1º Grupo H\n\n📅 Da
- ta: 02 de julho de 2026\n🕐 Horário: 22:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood (Los Angeles) — E
- UA\nJogo nº 84 de 104\n\n⚠️ Horário estimado pela região — confirm
- ar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas n
- o Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇪🇸 Espanha × 
+ 🇦🇹 Áustria\nFase: Rodada de 32 (Jogo 84)\nMando de campo: 🇪🇸 E
+ spanha\n\n📅 Data: quinta-feira\, 02 de julho de 2026\n🕐 Horário: 16:
+ 00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Loca
+ l: Inglewood (Los Angeles) — EUA\nJogo nº 84 de 104\n\nFonte: FIFA — f
+ ifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito 
+ Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo H × 2º Grupo J — Rodada de 32 (Jogo 84)
+DESCRIPTION:🇪🇸 Espanha × 🇦🇹 Áustria — Rodada de 32 (Jogo 84
+ )
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-085-a2834227922d@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260703T040000Z
-DTEND:20260703T060000Z
-SUMMARY:1º Grupo B × 3º E/F/G/I/J — Rodada de 32 (Jogo 85)
+UID:copa2026-083-519840541b43@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+SUMMARY:🇭🇷 Croácia × 🇵🇹 Portugal — Rodada de 32 (Jogo 83)
+LOCATION:BMO Field\, Toronto\, Canadá
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇭🇷 Croácia × 
+ 🇵🇹 Portugal\nFase: Rodada de 32 (Jogo 83)\nMando de campo: 🇭🇷 C
+ roácia\n\n📅 Data: quinta-feira\, 02 de julho de 2026\n🕐 Horário: 20
+ :00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: BMO Field\n📍 Local:
+  Toronto — Canadá\nJogo nº 83 de 104\n\nFonte: FIFA — fifa.com\n\n—
+ ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇭🇷 Croácia × 🇵🇹 Portugal — Rodada de 32 (Jogo 8
+ 3)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-085-067e51ae05f1@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260703T030000Z
+DTEND:20260703T050000Z
+SUMMARY:🇨🇭 Suíça × 🇩🇿 Argélia — Rodada de 32 (Jogo 85)
 LOCATION:BC Place\, Vancouver\, Canadá
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo B × 3º E/
- F/G/I/J\nFase: Rodada de 32 (Jogo 85)\nMando de campo: 1º Grupo B\n\n📅 
- Data: 03 de julho de 2026\n🕐 Horário: 01:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — Canadá\nJogo nº
-  85 de 104\n\n⚠️ Horário estimado pela região — confirmar com FIFA\
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇭 Suíça × 
+ 🇩🇿 Argélia\nFase: Rodada de 32 (Jogo 85)\nMando de campo: 🇨🇭 S
+ uíça\n\n📅 Data: sexta-feira\, 03 de julho de 2026\n🕐 Horário: 00:0
+ 0 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Va
+ ncouver — Canadá\nJogo nº 85 de 104\n\nFonte: FIFA — fifa.com\n\n—
+ ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇭 Suíça × 🇩🇿 Argélia — Rodada de 32 (Jogo 85
+ )
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-088-110e4f484a37@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+SUMMARY:🇦🇺 Austrália × 🇪🇬 Egito — Rodada de 32 (Jogo 88)
+LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇦🇺 Austrália 
+ × 🇪🇬 Egito\nFase: Rodada de 32 (Jogo 88)\nMando de campo: 🇦🇺 A
+ ustrália\n\n📅 Data: sexta-feira\, 03 de julho de 2026\n🕐 Horário: 1
+ 5:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Lo
+ cal: Arlington (Dallas) — EUA\nJogo nº 88 de 104\n\nFonte: FIFA — fifa
+ .com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Ele
+ itoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇦🇺 Austrália × 🇪🇬 Egito — Rodada de 32 (Jogo 88
+ )
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-086-bc19729c7589@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+SUMMARY:🇦🇷 Argentina × 🇨🇻 Cabo Verde — Rodada de 32 (Jogo 86
+ )
+LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇦🇷 Argentina ×
+  🇨🇻 Cabo Verde\nFase: Rodada de 32 (Jogo 86)\nMando de campo: 🇦
+ 🇷 Argentina\n\n📅 Data: sexta-feira\, 03 de julho de 2026\n🕐 Horár
+ io: 19:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadiu
+ m\n📍 Local: Miami Gardens — EUA\nJogo nº 86 de 104\n\nFonte: FIFA —
+  fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direit
+ o Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇦🇷 Argentina × 🇨🇻 Cabo Verde — Rodada de 32 (Jog
+ o 86)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-087-74062d612dff@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:🇨🇴 Colômbia × 🇬🇭 Gana — Rodada de 32 (Jogo 87)
+LOCATION:Arrowhead Stadium\, Kansas City\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 🇨🇴 Colômbia ×
+  🇬🇭 Gana\nFase: Rodada de 32 (Jogo 87)\nMando de campo: 🇨🇴 Col
+ ômbia\n\n📅 Data: sexta-feira\, 03 de julho de 2026\n🕐 Horário: 22:3
+ 0 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Arrowhead Stadium\n📍 
+ Local: Kansas City — EUA\nJogo nº 87 de 104\n\nFonte: FIFA — fifa.com\
+ n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitora
+ l.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🇨🇴 Colômbia × 🇬🇭 Gana — Rodada de 32 (Jogo 87)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-090-c930c742d328@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:Vencedor 🇿🇦/🇨🇦 × Vencedor 🇳🇱/🇲🇦 — Oitava
+ s de Final (Jogo 90)
+LOCATION:NRG Stadium\, Houston\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor 🇿🇦/
+ 🇨🇦 × Vencedor 🇳🇱/🇲🇦\nFase: Oitavas de Final (Jogo 90)\nM
+ ando de campo: Vencedor 🇿🇦/🇨🇦\n\n📅 Data: sábado\, 04 de jul
+ ho de 2026\n🕐 Horário: 14:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Est
+ ádio: NRG Stadium\n📍 Local: Houston — EUA\nJogo nº 90 de 104\n\nFont
+ e: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo s
+ obre Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vencedor 🇿🇦/🇨🇦 × Vencedor 🇳🇱/🇲🇦 — Oi
+ tavas de Final (Jogo 90)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-089-8f2aea65b662@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:Vencedor 🇩🇪/🇵🇾 × Vencedor 🇫🇷/🇸🇪 — Oitava
+ s de Final (Jogo 89)
+LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor 🇩🇪/
+ 🇵🇾 × Vencedor 🇫🇷/🇸🇪\nFase: Oitavas de Final (Jogo 89)\nM
+ ando de campo: Vencedor 🇩🇪/🇵🇾\n\n📅 Data: sábado\, 04 de jul
+ ho de 2026\n🕐 Horário: 18:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Est
+ ádio: Lincoln Financial Field\n📍 Local: Filadélfia — EUA\nJogo nº 8
+ 9 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no I
+ nstagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vencedor 🇩🇪/🇵🇾 × Vencedor 🇫🇷/🇸🇪 — Oi
+ tavas de Final (Jogo 89)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-092-2e2f5837679a@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:Vencedor 🇧🇷/🇯🇵 × Vencedor 🇨🇮/🇳🇴 — Oitava
+ s de Final (Jogo 92)
+LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor 🇧🇷/
+ 🇯🇵 × Vencedor 🇨🇮/🇳🇴\nFase: Oitavas de Final (Jogo 92)\nM
+ ando de campo: Vencedor 🇧🇷/🇯🇵\n\n📅 Data: domingo\, 05 de jul
+ ho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Est
+ ádio: MetLife Stadium\n📍 Local: East Rutherford (NY/NJ) — EUA\nJogo n
+ º 92 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas 
+ no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vencedor 🇧🇷/🇯🇵 × Vencedor 🇨🇮/🇳🇴 — Oi
+ tavas de Final (Jogo 92)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-091-fd2e1d1aedf7@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260706T000000Z
+DTEND:20260706T020000Z
+SUMMARY:Vencedor 🇲🇽/🇪🇨 × Vencedor 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+ /🇨🇩 — Oitavas de Final (Jogo 91)
+LOCATION:Estádio Azteca\, Cidade do México\, México
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor 🇲🇽/
+ 🇪🇨 × Vencedor 🏴󠁧󠁢󠁥󠁮󠁧󠁿/🇨🇩\nFase: Oitavas d
+ e Final (Jogo 91)\nMando de campo: Vencedor 🇲🇽/🇪🇨\n\n📅 Data:
+  domingo\, 05 de julho de 2026\n🕐 Horário: 21:00 (Brasília — BRT\, U
+ TC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Cidade do México 
+ — México\nJogo nº 91 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
+ iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vencedor 🇲🇽/🇪🇨 × Vencedor 🏴󠁧󠁢󠁥󠁮󠁧
+ 󠁿/🇨🇩 — Oitavas de Final (Jogo 91)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-094-f568b6d39e86@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+SUMMARY:Vencedor 🇭🇷/🇵🇹 × Vencedor 🇪🇸/🇦🇹 — Oitava
+ s de Final (Jogo 94)
+LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor 🇭🇷/
+ 🇵🇹 × Vencedor 🇪🇸/🇦🇹\nFase: Oitavas de Final (Jogo 94)\nM
+ ando de campo: Vencedor 🇭🇷/🇵🇹\n\n📅 Data: segunda-feira\, 06 
+ de julho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\n\n🏟
+ ️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) — EUA\nJogo n
+ º 94 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas 
+ no Instagram. Tudo sobre Direito Eleitoral.
+CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vencedor 🇭🇷/🇵🇹 × Vencedor 🇪🇸/🇦🇹 — Oi
+ tavas de Final (Jogo 94)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:copa2026-093-123bf09cf518@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:Vencedor 🇺🇸/🇧🇦 × Vencedor 🇧🇪/🇸🇳 — Oitava
+ s de Final (Jogo 93)
+LOCATION:Lumen Field\, Seattle\, EUA
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor 🇺🇸/
+ 🇧🇦 × Vencedor 🇧🇪/🇸🇳\nFase: Oitavas de Final (Jogo 93)\nM
+ ando de campo: Vencedor 🇺🇸/🇧🇦\n\n📅 Data: segunda-feira\, 06 
+ de julho de 2026\n🕐 Horário: 21:00 (Brasília — BRT\, UTC-3)\n\n🏟
+ ️ Estádio: Lumen Field\n📍 Local: Seattle — EUA\nJogo nº 93 de 104\
  n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram.
   Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
@@ -1904,285 +2146,75 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:1º Grupo B × 3º E/F/G/I/J — Rodada de 32 (Jogo 85)
+DESCRIPTION:Vencedor 🇺🇸/🇧🇦 × Vencedor 🇧🇪/🇸🇳 — Oi
+ tavas de Final (Jogo 93)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-088-564980677421@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260703T210000Z
-DTEND:20260703T230000Z
-SUMMARY:2º Grupo D × 2º Grupo G — Rodada de 32 (Jogo 88)
-LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 2º Grupo D × 2º Gr
- upo G\nFase: Rodada de 32 (Jogo 88)\nMando de campo: 2º Grupo D\n\n📅 Da
- ta: 03 de julho de 2026\n🕐 Horário: 18:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dallas) — EUA\nJ
- ogo nº 88 de 104\n\n⚠️ Horário estimado pela região — confirmar co
- m FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Ins
- tagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2º Grupo D × 2º Grupo G — Rodada de 32 (Jogo 88)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-086-6a01bbaa9a56@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260703T230000Z
-DTEND:20260704T010000Z
-SUMMARY:1º Grupo J × 2º Grupo H — Rodada de 32 (Jogo 86)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo J × 2º Gr
- upo H\nFase: Rodada de 32 (Jogo 86)\nMando de campo: 1º Grupo J\n\n📅 Da
- ta: 03 de julho de 2026\n🕐 Horário: 20:00 (Brasília — BRT\, UTC-3)\n
- \n🏟️ Estádio: Hard Rock Stadium\n📍 Local: Miami Gardens — EUA\nJ
- ogo nº 86 de 104\n\n⚠️ Horário estimado pela região — confirmar co
- m FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Ins
- tagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:1º Grupo J × 2º Grupo H — Rodada de 32 (Jogo 86)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-087-5913dfc7c861@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260704T000000Z
-DTEND:20260704T020000Z
-SUMMARY:1º Grupo K × 3º D/E/I/J/L — Rodada de 32 (Jogo 87)
-LOCATION:Arrowhead Stadium\, Kansas City\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: 1º Grupo K × 3º D/
- E/I/J/L\nFase: Rodada de 32 (Jogo 87)\nMando de campo: 1º Grupo K\n\n📅 
- Data: 03 de julho de 2026\n🕐 Horário: 21:00 (Brasília — BRT\, UTC-3)
- \n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kansas City — EUA\nJ
- ogo nº 87 de 104\n\n⚠️ Horário estimado pela região — confirmar co
- m FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Ins
- tagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:1º Grupo K × 3º D/E/I/J/L — Rodada de 32 (Jogo 87)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-090-8a21393a132a@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260704T210000Z
-DTEND:20260704T230000Z
-SUMMARY:Vencedor Jogo 73 × Vencedor Jogo 75 — Oitavas de Final (Jogo 90)
-LOCATION:NRG Stadium\, Houston\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 73 × V
- encedor Jogo 75\nFase: Oitavas de Final (Jogo 90)\nMando de campo: Vencedor
-  Jogo 73\n\n📅 Data: 04 de julho de 2026\n🕐 Horário: 18:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: NRG Stadium\n📍 Local: Houston —
-  EUA\nJogo nº 90 de 104\n\n⚠️ Horário estimado — confirmar com FIFA
- \n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram
- . Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 73 × Vencedor Jogo 75 — Oitavas de Final (Jogo
-  90)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-089-c91959097030@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260704T230000Z
-DTEND:20260705T010000Z
-SUMMARY:Vencedor Jogo 74 × Vencedor Jogo 77 — Oitavas de Final (Jogo 89)
-LOCATION:Lincoln Financial Field\, Filadélfia\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 74 × V
- encedor Jogo 77\nFase: Oitavas de Final (Jogo 89)\nMando de campo: Vencedor
-  Jogo 74\n\n📅 Data: 04 de julho de 2026\n🕐 Horário: 20:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: Lincoln Financial Field\n📍 Local:
-  Filadélfia — EUA\nJogo nº 89 de 104\n\n⚠️ Horário estimado — co
- nfirmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lu
- cas no Instagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 74 × Vencedor Jogo 77 — Oitavas de Final (Jogo
-  89)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-092-7c1547a6f337@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260705T230000Z
-DTEND:20260706T010000Z
-SUMMARY:Vencedor Jogo 76 × Vencedor Jogo 78 — Oitavas de Final (Jogo 92)
-LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 76 × V
- encedor Jogo 78\nFase: Oitavas de Final (Jogo 92)\nMando de campo: Vencedor
-  Jogo 76\n\n📅 Data: 05 de julho de 2026\n🕐 Horário: 20:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Ru
- therford (NY/NJ) — EUA\nJogo nº 92 de 104\n\n⚠️ Horário estimado 
- — confirmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bess
- oni.lucas no Instagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 76 × Vencedor Jogo 78 — Oitavas de Final (Jogo
-  92)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-091-4016c6454ffd@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260706T000000Z
-DTEND:20260706T020000Z
-SUMMARY:Vencedor Jogo 79 × Vencedor Jogo 80 — Oitavas de Final (Jogo 91)
-LOCATION:Estádio Azteca\, Cidade do México\, México
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 79 × V
- encedor Jogo 80\nFase: Oitavas de Final (Jogo 91)\nMando de campo: Vencedor
-  Jogo 79\n\n📅 Data: 05 de julho de 2026\n🕐 Horário: 21:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: Estádio Azteca\n📍 Local: Cidade 
- do México — México\nJogo nº 91 de 104\n\n⚠️ Horário estimado — 
- confirmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.
- lucas no Instagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 79 × Vencedor Jogo 80 — Oitavas de Final (Jogo
-  91)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-094-8a94e2e9942e@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260706T210000Z
-DTEND:20260706T230000Z
-SUMMARY:Vencedor Jogo 83 × Vencedor Jogo 84 — Oitavas de Final (Jogo 94)
-LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 83 × V
- encedor Jogo 84\nFase: Oitavas de Final (Jogo 94)\nMando de campo: Vencedor
-  Jogo 83\n\n📅 Data: 06 de julho de 2026\n🕐 Horário: 18:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington 
- (Dallas) — EUA\nJogo nº 94 de 104\n\n⚠️ Horário estimado — confir
- mar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas 
- no Instagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 83 × Vencedor Jogo 84 — Oitavas de Final (Jogo
-  94)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-093-247a1ff2f1d2@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260707T010000Z
-DTEND:20260707T030000Z
-SUMMARY:Vencedor Jogo 81 × Vencedor Jogo 82 — Oitavas de Final (Jogo 93)
-LOCATION:Lumen Field\, Seattle\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 81 × V
- encedor Jogo 82\nFase: Oitavas de Final (Jogo 93)\nMando de campo: Vencedor
-  Jogo 81\n\n📅 Data: 06 de julho de 2026\n🕐 Horário: 22:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: Lumen Field\n📍 Local: Seattle —
-  EUA\nJogo nº 93 de 104\n\n⚠️ Horário estimado — confirmar com FIFA
- \n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram
- . Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 81 × Vencedor Jogo 82 — Oitavas de Final (Jogo
-  93)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-096-1083651d8503@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260707T230000Z
-DTEND:20260708T010000Z
-SUMMARY:Vencedor Jogo 86 × Vencedor Jogo 88 — Oitavas de Final (Jogo 96)
+UID:copa2026-096-7aafa905e533@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:Vencedor 🇦🇷/🇨🇻 × Vencedor 🇦🇺/🇪🇬 — Oitava
+ s de Final (Jogo 96)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 86 × V
- encedor Jogo 88\nFase: Oitavas de Final (Jogo 96)\nMando de campo: Vencedor
-  Jogo 86\n\n📅 Data: 07 de julho de 2026\n🕐 Horário: 20:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: A
- tlanta — EUA\nJogo nº 96 de 104\n\n⚠️ Horário estimado — confirma
- r com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no
-  Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor 🇦🇷/
+ 🇨🇻 × Vencedor 🇦🇺/🇪🇬\nFase: Oitavas de Final (Jogo 96)\nM
+ ando de campo: Vencedor 🇦🇷/🇨🇻\n\n📅 Data: terça-feira\, 07 d
+ e julho de 2026\n🕐 Horário: 13:00 (Brasília — BRT\, UTC-3)\n\n🏟
+ ️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta — EUA\nJogo nº 
+ 96 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no 
+ Instagram. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 86 × Vencedor Jogo 88 — Oitavas de Final (Jogo
-  96)
+DESCRIPTION:Vencedor 🇦🇷/🇨🇻 × Vencedor 🇦🇺/🇪🇬 — Oi
+ tavas de Final (Jogo 96)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-095-31fdbb8f1741@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260708T010000Z
-DTEND:20260708T030000Z
-SUMMARY:Vencedor Jogo 85 × Vencedor Jogo 87 — Oitavas de Final (Jogo 95)
+UID:copa2026-095-53809c5eda5f@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:Vencedor 🇨🇭/🇩🇿 × Vencedor 🇨🇴/🇬🇭 — Oitava
+ s de Final (Jogo 95)
 LOCATION:BC Place\, Vancouver\, Canadá
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 85 × V
- encedor Jogo 87\nFase: Oitavas de Final (Jogo 95)\nMando de campo: Vencedor
-  Jogo 85\n\n📅 Data: 07 de julho de 2026\n🕐 Horário: 22:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: BC Place\n📍 Local: Vancouver — 
- Canadá\nJogo nº 95 de 104\n\n⚠️ Horário estimado — confirmar com F
- IFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instag
- ram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor 🇨🇭/
+ 🇩🇿 × Vencedor 🇨🇴/🇬🇭\nFase: Oitavas de Final (Jogo 95)\nM
+ ando de campo: Vencedor 🇨🇭/🇩🇿\n\n📅 Data: terça-feira\, 07 d
+ e julho de 2026\n🕐 Horário: 17:00 (Brasília — BRT\, UTC-3)\n\n🏟
+ ️ Estádio: BC Place\n📍 Local: Vancouver — Canadá\nJogo nº 95 de 1
+ 04\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagr
+ am. Tudo sobre Direito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 85 × Vencedor Jogo 87 — Oitavas de Final (Jogo
-  95)
+DESCRIPTION:Vencedor 🇨🇭/🇩🇿 × Vencedor 🇨🇴/🇬🇭 — Oi
+ tavas de Final (Jogo 95)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-097-09a1663b31ee@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-097-55f825300b3d@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:Vencedor Jogo 89 × Vencedor Jogo 90 — Quartas de Final (Jogo 97)
 LOCATION:Gillette Stadium\, Foxborough (Boston)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 89 × V
  encedor Jogo 90\nFase: Quartas de Final (Jogo 97)\nMando de campo: Vencedor
-  Jogo 89\n\n📅 Data: 09 de julho de 2026\n🕐 Horário: 17:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: Gillette Stadium\n📍 Local: Foxbor
- ough (Boston) — EUA\nJogo nº 97 de 104\n\n⚠️ Horário estimado — c
- onfirmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.l
- ucas no Instagram. Tudo sobre Direito Eleitoral.
+  Jogo 89\n\n📅 Data: quinta-feira\, 09 de julho de 2026\n🕐 Horário: 1
+ 7:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Gillette Stadium\n
+ 📍 Local: Foxborough (Boston) — EUA\nJogo nº 97 de 104\n\nFonte: FIFA 
+ — fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Dir
+ eito Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2194,91 +2226,92 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-098-94bef9a24250@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260711T010000Z
-DTEND:20260711T030000Z
-SUMMARY:Vencedor Jogo 93 × Vencedor Jogo 94 — Quartas de Final (Jogo 98)
+UID:copa2026-098-9c3c458ddb6b@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:Vencedor Jogo 94 × Vencedor Jogo 93 — Quartas de Final (Jogo 98)
 LOCATION:SoFi Stadium\, Inglewood (Los Angeles)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 93 × V
- encedor Jogo 94\nFase: Quartas de Final (Jogo 98)\nMando de campo: Vencedor
-  Jogo 93\n\n📅 Data: 10 de julho de 2026\n🕐 Horário: 22:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Local: Inglewood 
- (Los Angeles) — EUA\nJogo nº 98 de 104\n\n⚠️ Horário estimado — c
- onfirmar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.l
- ucas no Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 94 × V
+ encedor Jogo 93\nFase: Quartas de Final (Jogo 98)\nMando de campo: Vencedor
+  Jogo 94\n\n📅 Data: sexta-feira\, 10 de julho de 2026\n🕐 Horário: 16
+ :00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: SoFi Stadium\n📍 Loc
+ al: Inglewood (Los Angeles) — EUA\nJogo nº 98 de 104\n\nFonte: FIFA — 
+ fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito
+  Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 93 × Vencedor Jogo 94 — Quartas de Final (Jogo
+DESCRIPTION:Vencedor Jogo 94 × Vencedor Jogo 93 — Quartas de Final (Jogo
   98)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-099-9b2fc7cc58c1@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260711T200000Z
-DTEND:20260711T220000Z
-SUMMARY:Vencedor Jogo 91 × Vencedor Jogo 92 — Quartas de Final (Jogo 99)
+UID:copa2026-099-24ab0ad4d73a@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260711T210000Z
+DTEND:20260711T230000Z
+SUMMARY:Vencedor Jogo 92 × Vencedor Jogo 91 — Quartas de Final (Jogo 99)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 91 × V
- encedor Jogo 92\nFase: Quartas de Final (Jogo 99)\nMando de campo: Vencedor
-  Jogo 91\n\n📅 Data: 11 de julho de 2026\n🕐 Horário: 17:00 (Brasília
-  — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Local: Miami
-  Gardens — EUA\nJogo nº 99 de 104\n\n⚠️ Horário estimado — confir
- mar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas 
- no Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 92 × V
+ encedor Jogo 91\nFase: Quartas de Final (Jogo 99)\nMando de campo: Vencedor
+  Jogo 92\n\n📅 Data: sábado\, 11 de julho de 2026\n🕐 Horário: 18:00 
+ (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Lo
+ cal: Miami Gardens — EUA\nJogo nº 99 de 104\n\nFonte: FIFA — fifa.com\
+ n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitora
+ l.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 91 × Vencedor Jogo 92 — Quartas de Final (Jogo
+DESCRIPTION:Vencedor Jogo 92 × Vencedor Jogo 91 — Quartas de Final (Jogo
   99)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-100-c3bce05de8ec@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260712T000000Z
-DTEND:20260712T020000Z
-SUMMARY:Vencedor Jogo 95 × Vencedor Jogo 96 — Quartas de Final (Jogo 100
+UID:copa2026-100-cde59c389518@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:Vencedor Jogo 96 × Vencedor Jogo 95 — Quartas de Final (Jogo 100
  )
 LOCATION:Arrowhead Stadium\, Kansas City\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 95 × V
- encedor Jogo 96\nFase: Quartas de Final (Jogo 100)\nMando de campo: Vencedo
- r Jogo 95\n\n📅 Data: 11 de julho de 2026\n🕐 Horário: 21:00 (Brasíli
- a — BRT\, UTC-3)\n\n🏟️ Estádio: Arrowhead Stadium\n📍 Local: Kans
- as City — EUA\nJogo nº 100 de 104\n\n⚠️ Horário estimado — confir
- mar com FIFA\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas 
- no Instagram. Tudo sobre Direito Eleitoral.
+DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 96 × V
+ encedor Jogo 95\nFase: Quartas de Final (Jogo 100)\nMando de campo: Vencedo
+ r Jogo 96\n\n📅 Data: sábado\, 11 de julho de 2026\n🕐 Horário: 22:00
+  (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Arrowhead Stadium\n📍 L
+ ocal: Kansas City — EUA\nJogo nº 100 de 104\n\nFonte: FIFA — fifa.com\
+ n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitora
+ l.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Vencedor Jogo 95 × Vencedor Jogo 96 — Quartas de Final (Jogo
+DESCRIPTION:Vencedor Jogo 96 × Vencedor Jogo 95 — Quartas de Final (Jogo
   100)
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-101-f98aaeca014b@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-101-4720d8dce8db@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 SUMMARY:Vencedor Jogo 97 × Vencedor Jogo 98 — Semifinal (Jogo 101)
 LOCATION:AT&T Stadium\, Arlington (Dallas)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 97 × V
  encedor Jogo 98\nFase: Semifinal (Jogo 101)\nMando de campo: Vencedor Jogo 
- 97\n\n📅 Data: 14 de julho de 2026\n🕐 Horário: 16:00 (Brasília — B
- RT\, UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: Arlington (Dalla
- s) — EUA\nJogo nº 101 de 104\n\nFonte: FIFA — fifa.com\n\n———\nS
- iga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ 97\n\n📅 Data: terça-feira\, 14 de julho de 2026\n🕐 Horário: 16:00 (
+ Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: AT&T Stadium\n📍 Local: A
+ rlington (Dallas) — EUA\nJogo nº 101 de 104\n\nFonte: FIFA — fifa.com\
+ n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitora
+ l.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2289,18 +2322,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-102-7d314c22d962@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-102-dae1c19af473@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 SUMMARY:Vencedor Jogo 99 × Vencedor Jogo 100 — Semifinal (Jogo 102)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 99 × V
  encedor Jogo 100\nFase: Semifinal (Jogo 102)\nMando de campo: Vencedor Jogo
-  99\n\n📅 Data: 15 de julho de 2026\n🕐 Horário: 16:00 (Brasília — 
- BRT\, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlant
- a — EUA\nJogo nº 102 de 104\n\nFonte: FIFA — fifa.com\n\n———\nSi
- ga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+  99\n\n📅 Data: quarta-feira\, 15 de julho de 2026\n🕐 Horário: 16:00 
+ (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Mercedes-Benz Stadium\n
+ 📍 Local: Atlanta — EUA\nJogo nº 102 de 104\n\nFonte: FIFA — fifa.co
+ m\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleito
+ ral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2311,20 +2345,20 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-103-f32d9a041f63@bessoni.adv.br
-DTSTAMP:20260601T145819Z
-DTSTART:20260718T200000Z
-DTEND:20260718T220000Z
+UID:copa2026-103-01cfaf9f2b5c@bessoni.adv.br
+DTSTAMP:20260628T175447Z
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
 SUMMARY:Perdedor Jogo 101 × Perdedor Jogo 102 — Disputa do 3º Lugar (Jo
  go 103)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Perdedor Jogo 101 × 
  Perdedor Jogo 102\nFase: Disputa do 3º Lugar (Jogo 103)\nMando de campo: P
- erdedor Jogo 101\n\n📅 Data: 18 de julho de 2026\n🕐 Horário: 17:00 (B
- rasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Loca
- l: Miami Gardens — EUA\nJogo nº 103 de 104\n\nFonte: FIFA — fifa.com\n
- \n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral
- .
+ erdedor Jogo 101\n\n📅 Data: sábado\, 18 de julho de 2026\n🕐 Horário
+ : 18:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\
+ n📍 Local: Miami Gardens — EUA\nJogo nº 103 de 104\n\nFonte: FIFA — 
+ fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito
+  Eleitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -2336,18 +2370,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:copa2026-104-8d544cfc434d@bessoni.adv.br
-DTSTAMP:20260601T145819Z
+UID:copa2026-104-9d4a865276db@bessoni.adv.br
+DTSTAMP:20260628T175447Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 SUMMARY:Vencedor Jogo 101 × Vencedor Jogo 102 — 🏆 FINAL (Jogo 104)
 LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
 DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026\n\nConfronto: Vencedor Jogo 101 × 
  Vencedor Jogo 102\nFase: 🏆 FINAL (Jogo 104)\nMando de campo: Vencedor Jo
- go 101\n\n📅 Data: 19 de julho de 2026\n🕐 Horário: 16:00 (Brasília 
- — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rut
- herford (NY/NJ) — EUA\nJogo nº 104 de 104\n\nFonte: FIFA — fifa.com\n\
- n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ go 101\n\n📅 Data: domingo\, 19 de julho de 2026\n🕐 Horário: 16:00 (B
+ rasília — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local:
+  East Rutherford (NY/NJ) — EUA\nJogo nº 104 de 104\n\nFonte: FIFA — fi
+ fa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito E
+ leitoral.
 CATEGORIES:Esporte,Copa do Mundo 2026,Futebol
 STATUS:CONFIRMED
 TRANSP:OPAQUE
