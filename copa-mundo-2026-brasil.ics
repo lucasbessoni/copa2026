@@ -1,15 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Bessoni Advogados//Copa 2026 Brasil v4//PT-BR
+PRODID:-//Bessoni Advogados//Copa 2026 Brasil v5//PT-BR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Copa 2026 - Apenas Brasil 🇧🇷
 X-WR-TIMEZONE:America/Sao_Paulo
-X-WR-CALDESC:Caminho do Brasil na Copa 2026. Próximo jogo: Brasil x Norueg
- a (05/07, 17h, MetLife). Atualizado após cada rodada. @bessoni.lucas
+X-WR-CALDESC:Caminho do Brasil na Copa 2026. Eliminado nas Oitavas pela Nor
+ uega (05/07). Para acompanhar o restante da Copa, assine o calendário comp
+ leto em bfadv.link/copa2026. @bessoni.lucas
 BEGIN:VEVENT
 UID:copa2026-br-conf-006-c8cef987b380@bessoni.adv.br
-DTSTAMP:20260704T143453Z
+DTSTAMP:20260708T194127Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:🇧🇷 Brasil × 🇲🇦 Marrocos — Grupo C — Rodada 1
@@ -33,7 +34,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:copa2026-br-conf-031-b8d7bc70dc0d@bessoni.adv.br
-DTSTAMP:20260704T143453Z
+DTSTAMP:20260708T194127Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 SUMMARY:🇧🇷 Brasil × 🇭🇹 Haiti — Grupo C — Rodada 2
@@ -57,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:copa2026-br-conf-052-33d5ef143045@bessoni.adv.br
-DTSTAMP:20260704T143453Z
+DTSTAMP:20260708T194127Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escócia × 🇧🇷 Brasil — Grupo 
@@ -83,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:copa2026-br-conf-076-56cd59c8572f@bessoni.adv.br
-DTSTAMP:20260704T143453Z
+DTSTAMP:20260708T194127Z
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 SUMMARY:🇧🇷 Brasil × 🇯🇵 Japão — Rodada de 32 (Jogo 76)
@@ -107,7 +108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:copa2026-br-conf-092-d20078417506@bessoni.adv.br
-DTSTAMP:20260704T143453Z
+DTSTAMP:20260708T194127Z
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 SUMMARY:🇧🇷 Brasil × 🇳🇴 Noruega — Oitavas de Final (Jogo 92)
@@ -116,10 +117,11 @@ DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO DO BRASIL\n\nConfronto:
  🇧🇷 Brasil × 🇳🇴 Noruega\nFase: Oitavas de Final (Jogo 92)\n\n
  📅 Data: domingo\, 05 de julho de 2026\n🕐 Horário: 17:00 (Brasília 
  — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n📍 Local: East Rut
- herford (NY/NJ) — EUA\nJogo nº 92 de 104 na Copa\n\nℹ️ Confronto OFI
- CIAL FIFA. Vencedor enfrenta o vencedor de México × Inglaterra nas Quarta
- s.\n\n✅ CONFRONTO E HORÁRIO OFICIAIS FIFA\n\nFonte: FIFA — fifa.com\n\
- n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
+ herford (NY/NJ) — EUA\nJogo nº 92 de 104 na Copa\n\nℹ️ Brasil ELIMIN
+ ADO nas Oitavas. Noruega avançou às Quartas contra a Inglaterra (11/07\, 
+ 18h\, Miami).\n\n✅ CONFRONTO E HORÁRIO OFICIAIS FIFA\n\nFonte: FIFA — 
+ fifa.com\n\n———\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito
+  Eleitoral.
 CATEGORIES:Esporte,Copa 2026 Brasil,Confirmado
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -128,114 +130,6 @@ ACTION:DISPLAY
 DESCRIPTION:🇧🇷 Brasil × 🇳🇴 Noruega — Oitavas de Final (Jogo 
  92)
 TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-br-cen-099-491ccc494f30@bessoni.adv.br
-DTSTAMP:20260704T143453Z
-DTSTART:20260711T210000Z
-DTEND:20260711T230000Z
-SUMMARY:[POSSÍVEL] 🇧🇷 Brasil × 🇲🇽 México ou 🏴󠁧󠁢󠁥
- 󠁮󠁧󠁿 Inglaterra
-LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
- ️ Este jogo é CONDICIONAL.\n➡️ Só acontece se o Brasil vencer a Nor
- uega nas Oitavas. O adversário será o vencedor de México × Inglaterra (
- jogo 05/07\, 21h\, Azteca).\n\nFase: Quartas de Final (Jogo 99)\n\n📅 Dat
- a: sábado\, 11 de julho de 2026\n🕐 Horário: 18:00 (Brasília — BRT\,
-  UTC-3)\n\n🏟️ Estádio: Hard Rock Stadium\n📍 Local: Miami Gardens 
- — EUA\n\n✅ HORÁRIO OFICIAL FIFA — confirmado após sorteio do mata-m
- ata\n\nℹ️ O calendário é atualizado a cada fase. Quem assinou pelo\nl
- ink recebe automaticamente no celular.\n\nFonte: FIFA — fifa.com\n\n—
- ——\nSiga @bessoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Possível] 🇧🇷 Brasil × 🇲🇽 México ou 🏴󠁧󠁢
- 󠁥󠁮󠁧󠁿 Inglaterra
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-br-cen-102-fd4453b9cdb5@bessoni.adv.br
-DTSTAMP:20260704T143453Z
-DTSTART:20260715T190000Z
-DTEND:20260715T210000Z
-SUMMARY:[POSSÍVEL] 🇧🇷 Brasil × Vencedor Argentina/Egito/Suíça/Col
- ômbia
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
- ️ Este jogo é CONDICIONAL.\n➡️ Só acontece se o Brasil vencer as Qu
- artas. O adversário virá do lado Argentina × Egito / Suíça × Colômbi
- a (Quartas 4).\n\nFase: Semifinal (Jogo 102)\n\n📅 Data: quarta-feira\, 1
- 5 de julho de 2026\n🕐 Horário: 16:00 (Brasília — BRT\, UTC-3)\n\n
- 🏟️ Estádio: Mercedes-Benz Stadium\n📍 Local: Atlanta — EUA\n\n✅
-  HORÁRIO OFICIAL FIFA — confirmado após sorteio do mata-mata\n\nℹ️ 
- O calendário é atualizado a cada fase. Quem assinou pelo\nlink recebe aut
- omaticamente no celular.\n\nFonte: FIFA — fifa.com\n\n———\nSiga @be
- ssoni.lucas no Instagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Possível] 🇧🇷 Brasil × Vencedor Argentina/Egito/Suíça
- /Colômbia
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-br-cen-103-642f2fd23558@bessoni.adv.br
-DTSTAMP:20260704T143453Z
-DTSTART:20260718T210000Z
-DTEND:20260718T230000Z
-SUMMARY:[POSSÍVEL] 🇧🇷 Brasil — Disputa do 3º Lugar
-LOCATION:Hard Rock Stadium\, Miami Gardens\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
- ️ Este jogo é CONDICIONAL.\n➡️ Só acontece se o Brasil PERDER a sem
- ifinal. Adversário: perdedor da outra semifinal (Dallas\, 14/07).\n\nFase:
-  Disputa do 3º Lugar (Jogo 103)\n\n📅 Data: sábado\, 18 de julho de 202
- 6\n🕐 Horário: 18:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: Ha
- rd Rock Stadium\n📍 Local: Miami Gardens — EUA\n\n✅ HORÁRIO OFICIAL 
- FIFA — confirmado após sorteio do mata-mata\n\nℹ️ O calendário é a
- tualizado a cada fase. Quem assinou pelo\nlink recebe automaticamente no ce
- lular.\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Ins
- tagram. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Possível] 🇧🇷 Brasil — Disputa do 3º Lugar
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:copa2026-br-cen-104-83ae21ec4255@bessoni.adv.br
-DTSTAMP:20260704T143453Z
-DTSTART:20260719T190000Z
-DTEND:20260719T210000Z
-SUMMARY:[POSSÍVEL] 🇧🇷 Brasil — 🏆 GRANDE FINAL
-LOCATION:MetLife Stadium\, East Rutherford (NY/NJ)\, EUA
-DESCRIPTION:⚽ COPA DO MUNDO FIFA 2026 — JOGO POSSÍVEL DO BRASIL\n\n⚠
- ️ Este jogo é CONDICIONAL.\n➡️ Só acontece se o Brasil VENCER a sem
- ifinal. Adversário: vencedor da outra semifinal (Dallas\, 14/07).\n\nFase:
-  FINAL (Jogo 104)\n\n📅 Data: domingo\, 19 de julho de 2026\n🕐 Horári
- o: 16:00 (Brasília — BRT\, UTC-3)\n\n🏟️ Estádio: MetLife Stadium\n
- 📍 Local: East Rutherford (NY/NJ) — EUA\n\n✅ HORÁRIO OFICIAL FIFA 
- — confirmado após sorteio do mata-mata\n\nℹ️ O calendário é atuali
- zado a cada fase. Quem assinou pelo\nlink recebe automaticamente no celular
- .\n\nFonte: FIFA — fifa.com\n\n———\nSiga @bessoni.lucas no Instagra
- m. Tudo sobre Direito Eleitoral.
-CATEGORIES:Esporte,Copa 2026 Brasil,Cenário
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Possível] 🇧🇷 Brasil — 🏆 GRANDE FINAL
-TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 END:VCALENDAR
